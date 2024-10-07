@@ -168,7 +168,7 @@ redirect_from:
     
     <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
     
-    <a href="#" class="cv-link">Download my resumé / CV</a>
+    <a href="https://github.com/36465ebb-b536-4070-9a85-35408c440f7b" class="cv-link">Download my resumé / CV</a>
 
     <!-- Card Layout for Interests and Education -->
     <div class="certification-layout">
