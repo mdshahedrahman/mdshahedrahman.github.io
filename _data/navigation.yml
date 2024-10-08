@@ -19,7 +19,7 @@ main:
     url: /co-curricular/
 
   - title: "Resume"
-    url: (/files/Resume_Mohammad_Shahedur_Rahman.pdf){:target="_blank"}
+    url: /files/Resume_Mohammad_Shahedur_Rahman.pdf
     
   - title: "Teaching Assistantship"
     url: /teaching/
