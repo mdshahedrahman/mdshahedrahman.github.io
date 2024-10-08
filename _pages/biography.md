@@ -96,7 +96,7 @@ redirect_from:
         }
 
         .certification-card p {
-            font-size: 14px; /* Font size for regular text */
+            font-size: 12px; /* Font size for regular text */
         }
 
         .certification-card small {
