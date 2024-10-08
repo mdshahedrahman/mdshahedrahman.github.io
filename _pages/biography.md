@@ -234,7 +234,7 @@ redirect_from:
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="/files/Resume_Mohammad_Shahedur_Rahman.pdf" class="cv-link" target="https://github.com/36465ebb-b536-4070-9a85-35408c440f7b">Download my resumé / CV</a>
+                    <a href="/files/Resume_Mohammad_Shahedur_Rahman.pdf" class="cv-link" target="_blank">Download my resumé / CV</a>
                 </div>
             </div>
         </div>
