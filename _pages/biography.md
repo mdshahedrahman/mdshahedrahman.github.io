@@ -228,7 +228,7 @@ redirect_from:
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <p>I’m Mohammad Shahedur Rahman, a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a>, where  I am honored to work under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=islamm6" target="_blank">Dr. Mohammad Atiqul Islam</a>. My research spans across high-performance computing, microservices, cybersecurity, machine learning, and cloud resource autoscaling, aiming to push the boundaries of modern computing environments.</p> 
+                <p>I’m Mohammad Shahedur Rahman, a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a>, where  I am honored to work under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=jiy3" target="_blank">Dr. Yuede Ji</a>. My research spans across graph-centric security, learning, and computing, also works at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Analytics. The goal of his research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures, aiming to push the boundaries of modern computing environments.</p> 
                   
 <p>Prior to my doctoral pursuit, I accrued over 12 years of professional expertise in Bangladesh diversified domains, such as fintech, consultancy, government institutions, holding several pivotal roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/" target="_blank">BRAC Bank PLC</a>. I also contributed to national infrastructure projects as an IT auditor and security consultant for the Bangladesh Government on projects like the (<a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a> and <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a>. </p>
   
@@ -250,10 +250,10 @@ redirect_from:
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Cloud Computing</li>
+                <li>Graph-centric Security, learning and Computing</li>
                 <li>High Performance Computing (HPC)</li>
-                <li>Microservices</li> 
-                <li>HPC in the Cloud</li>
+                <li>Graph AI and Graph Analytics</li> 
+                <li>Microservices</li>
             </div>
         </div>
 
