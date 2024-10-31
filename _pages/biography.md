@@ -99,9 +99,11 @@ redirect_from:
             font-size: 15px; /* Font size for regular text */
         }
 
+        /* Updated font style for Interests section */
         .certification-card li {
-            font-size: 18px; /* Updated font size to match biography */
-            line-height: 1.8;
+            font-size: 18px; /* Match font size of biography */
+            font-family: 'Georgia', serif;
+            line-height: 1.8; /* Match line-height of biography */
             color: #333;
             margin-bottom: 10px;
             text-align: justify;
