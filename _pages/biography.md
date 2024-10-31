@@ -99,6 +99,14 @@ redirect_from:
             font-size: 15px; /* Font size for regular text */
         }
 
+        .certification-card li {
+            font-size: 18px; /* Updated font size to match biography */
+            line-height: 1.8;
+            color: #333;
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+
         .certification-card small {
             font-size: 14px; /* Font size for small text */
         }
