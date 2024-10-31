@@ -101,7 +101,7 @@ redirect_from:
 
         /* Updated font style for Interests section */
         .certification-card li {
-            font-size: 15px; /* Match font size of biography */
+            font-size: 14px; /* Match font size of biography */
             font-family: 'Georgia', serif;
             line-height: 1.0; /* Match line-height of biography */
             color: #333;
