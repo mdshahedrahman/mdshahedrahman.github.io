@@ -251,9 +251,9 @@ redirect_from:
         <div class="certification-card">
             <div>
                 <li>Graph-centric Security, learning and Computing</li>
-                <li>High Performance Computing (HPC)</li>
-                <li>Graph AI and Graph Analytics</li> 
-                <li>Microservices</li>
+                <li>Graph AI and Graph Analytics</li>
+                <li>Cloud Computing & High Performance Computing (HPC)</li> 
+                <li>Microservices and Docker & Kubernetes Orchestration</li>
             </div>
         </div>
 
