@@ -296,7 +296,7 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://entoplearning.com/wp-content/uploads/2023/12/fgfdgfdggf.png" alt="Certified Ethical Hacker Icon">
+            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/ceh-logo-1-1.webp" alt="Certified Ethical Hacker Icon">
             <h6>Certified Ethical Hacker (CEH)</h6>
         </div>
 
