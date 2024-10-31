@@ -276,7 +276,7 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://api.ssdntech.com/public/storage/course/168483210686915.jpg" alt="Certified Threat Intelligence Analyst Icon">
+            <img src="https://ec-council-international.myshopify.com/cdn/shop/files/CTIA-logo_3a4ebd78-35ad-4aa0-ba80-6d857fd81c65_580x.jpg?v=1722375767" alt="Certified Threat Intelligence Analyst Icon">
             <h6>Certified Threat Intelligence Analyst</h6>
         </div>
 
