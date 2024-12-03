@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching/
+permalink: /teaching_assistantships/
 author_profile: true
 ---
 
