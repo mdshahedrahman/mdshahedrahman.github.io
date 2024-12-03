@@ -237,9 +237,19 @@ author_profile: true
     <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
-            <span>Teaching Assistantship</span>
+            <span>Teaching Assistantships</span>
         </div>
-
+        
+       <!-- Education Card 4 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;">CSE 5380. INFORMATION SECURITY 1</h5>
+                <p><h5 style="display: inline-block;">Spring 2025</h5></p>
+                <p>Hands-on introduction to the basics of security. Includes system security, buffer overflows, a high-level overview of cryptography, firewalls and IDS/IPS, malware, penetration testing, forensics, and system administration. Prerequisite: CSE 3320 (OPERATING SYSTEMS).<br>
+                </p>
+            </div>
+        </div>
+        
        <!-- Education Card 4 -->
         <div class="education-card">
             <div>
