@@ -257,15 +257,18 @@ author_profile: true
     </div>
 
     <!-- Professional Affiliation Card 2 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://i.pinimg.com/474x/f8/7f/63/f87f63a3051bdd134ead29fed3c1900b.jpg" alt="PMI Logo">
-            <div>
-                <h5>Member</h5>
-                <p>2020 - Present<br><small><a href="https://www.pmi.org/"</a></small></p>
-            </div>
-        </div>
-    </div>
+	<div class="certification-card">
+	    <div class="education-card">
+	        <img src="https://i.pinimg.com/474x/f8/7f/63/f87f63a3051bdd134ead29fed3c1900b.jpg" alt="PMI Logo">
+	        <div>
+	            <h5>Member</h5>
+	            <p>2020 - Present<br>
+	                <small><a href="https://www.pmi.org/">PMI Website</a></small>
+	            </p>
+	        </div>
+	    </div>
+	</div>
+
 
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
@@ -281,7 +284,7 @@ author_profile: true
     <!-- Professional Affiliation Card 4 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://seeklogo.com/images/E/engineer-institute-bangladesh-logo-8277DF266A-seeklogo.com.png" alt="IEB Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
             <div>
                 <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
