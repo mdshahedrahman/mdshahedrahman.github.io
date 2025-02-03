@@ -263,7 +263,7 @@ author_profile: true
 	        <div>
 	            <h5>Member</h5>
 	            <p>2020 - Present<br>
-	                <small><a href="https://www.pmi.org/">Project Management Institute</a></small>
+	                <small><a href="https://www.pmi.org/">Project Management Institute (PMI)</a></small>
 	            </p>
 	        </div>
 	    </div>
