@@ -19,10 +19,7 @@ main:
     url: /skills/
 
   - title: "Certifications"
-    url: /certifications/
-
-  - title: "Affiliations"
-    url: /affiliations/   
+    url: /certifications/  
 
   - title: "Awards"
     url: /awards/
