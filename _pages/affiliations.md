@@ -292,7 +292,7 @@ author_profile: true
     <!-- Professional Affiliation Card 5 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
             <div>
                 <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
