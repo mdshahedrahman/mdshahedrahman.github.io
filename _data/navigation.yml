@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Resume"
+    url: /files/Resume_Mohammad_Shahedur_Rahman.pdf
+
   - title: "Updates"
     url: /updates/
     
@@ -15,19 +18,16 @@ main:
 
   - title: "Skills"
     url: /skills/
+	
+  - title: "Awards"
+    url: /awards/
 
   - title: "Accreditations"
     url: /accreditations/
 
-  - title: "Awards"
-    url: /awards/
-
   - title: "Co-curricular"
     url: /co-curricular/
-
-  - title: "Resume"
-    url: /files/Resume_Mohammad_Shahedur_Rahman.pdf
-    
+ 
   - title: "Teaching Assistantships"
     url: /teaching_assistantships/
 
