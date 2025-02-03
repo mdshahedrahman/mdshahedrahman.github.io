@@ -246,7 +246,7 @@ author_profile: true
     <div class="separator">Professional Affiliations</div>
     
     <!-- Professional Affiliation Card 1 -->
-    <div class="certification-card">
+    <div class="certification-card">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuF3SMnGPmv0ve0Xq2R3HV-yFA11BPtrnXg&s
         <div class="education-card">
             <img src="https://www.theladders.com/s3proxy/company-photo.theladders.com/49272/911612f4-0250-425b-a25c-10d47fb4ee40.png" alt="ISACA Logo">
             <div>
@@ -273,7 +273,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuF3SMnGPmv0ve0Xq2R3HV-yFA11BPtrnXg&s" alt="EC-Council Logo">
             <div>
                 <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
