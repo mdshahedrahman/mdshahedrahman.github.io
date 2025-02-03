@@ -246,7 +246,7 @@ author_profile: true
     <div class="separator">Professional Affiliations</div>
     
     <!-- Professional Affiliation Card 1 -->
-    <div class="certification-card">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuF3SMnGPmv0ve0Xq2R3HV-yFA11BPtrnXg&s
+    <div class="certification-card">
         <div class="education-card">
             <img src="https://www.theladders.com/s3proxy/company-photo.theladders.com/49272/911612f4-0250-425b-a25c-10d47fb4ee40.png" alt="ISACA Logo">
             <div>
