@@ -248,7 +248,7 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/isaca.png?mw=250&hash=C68DA7ECFEAD695419778622BD1B5223" alt="ISACA Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ISACA_logo.png/1200px-ISACA_logo.png" alt="ISACA Logo">
             <div>
                 <h5>Silver Member</h5>
                 <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
