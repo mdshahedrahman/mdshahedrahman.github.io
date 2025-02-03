@@ -18,11 +18,11 @@ main:
   - title: "Skills"
     url: /skills/
 
+  - title: "Certifications"
+    url: /certifications/
+
   - title: "Awards"
     url: /awards/
-
-  - title: "Accreditations"
-    url: /accreditations/
 
   - title: "Co-curricular"
     url: /co-curricular/
