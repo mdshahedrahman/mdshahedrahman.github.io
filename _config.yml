@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mohammad Shahedur Rahman"
   avatar           : "My Picture.JPG"
-  bio              : "Ph.D. Student in Department of Computer Science at The University of Texas at Arlington"
+  bio              : "Ph.D. Student in the Department of Computer Science at The University of Texas at Arlington"
   location         : "Dallas-Fort Worth Metroplex, Texas"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=wNZsv4wAAAAJ&hl=en"
   email            : "mxr7980@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
