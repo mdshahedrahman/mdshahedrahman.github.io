@@ -262,7 +262,7 @@ author_profile: true
             <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
             <div>
                 <h5>Member</h5>
-                <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
+                <p>2020 - Present<br><small><a href="https://www.pmi.org/-/media/pmi/other-images/logos/pmi_logo_ogshare.png?h=630&iar=0&w=1200&rev=85550d986c5f45cd970c932865d23f60&dianoga=false"</a></small></p>
             </div>
         </div>
     </div>
@@ -270,7 +270,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
+            <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
             <div>
                 <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
