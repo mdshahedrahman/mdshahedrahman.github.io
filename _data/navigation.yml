@@ -4,7 +4,7 @@ main:
     url: /files/Resume_Mohammad_Shahedur_Rahman.pdf
 
   - title: "Updates"
-    url: //
+    url: /updates/
 
   - title: "Experiences"
     url: /experiences/
@@ -13,7 +13,7 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: //
+    url: /publications/
 
   - title: "Skills"
     url: /skills/
