@@ -248,7 +248,7 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ISACA_logo.png/1200px-ISACA_logo.png" alt="ISACA Logo">
+            <img src="https://www.theladders.com/s3proxy/company-photo.theladders.com/49272/911612f4-0250-425b-a25c-10d47fb4ee40.png" alt="ISACA Logo">
             <div>
                 <h5>Silver Member</h5>
                 <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
@@ -259,10 +259,10 @@ author_profile: true
     <!-- Professional Affiliation Card 2 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
+            <img src="https://i.pinimg.com/474x/f8/7f/63/f87f63a3051bdd134ead29fed3c1900b.jpg" alt="PMI Logo">
             <div>
                 <h5>Member</h5>
-                <p>2020 - Present<br><small><a href="https://www.pmi.org/-/media/pmi/other-images/logos/pmi_logo_ogshare.png?h=630&iar=0&w=1200&rev=85550d986c5f45cd970c932865d23f60&dianoga=false"</a></small></p>
+                <p>2020 - Present<br><small><a href="https://www.pmi.org/"</a></small></p>
             </div>
         </div>
     </div>
