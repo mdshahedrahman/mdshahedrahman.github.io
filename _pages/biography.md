@@ -20,13 +20,15 @@ redirect_from:
         }
 
         /* Main content container */
-	.container {
-		display: flex;
-		max-width: 1200px;
-		width: 100%;
-		padding: 20px;
-		align-items: flex-start; /* Ensures both content & sidebar align at the top */
-	}
+        .content {
+            width: 128%;
+            margin: 0;
+            padding: 10px;
+            padding-bottom: 20px; /* Added padding at the bottom */
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
 
         .content h2 {
             font-size: 28px;
@@ -320,18 +322,6 @@ redirect_from:
         </div>
     </div>
 </div>
-
-    <div class="sidebar">
-        <h3>Recent News</h3>
-        <p><strong><a href="#">[January 2025]</a></strong> Our paper <em>“Broken Access: On the Challenges of Screen Reader Assisted Two-Factor and Passwordless Authentication”</em> is accepted to <strong>ACM Web Conference (WWW) 2025</strong>.</p>
-        <p><strong><a href="#">[December 2024]</a></strong> I had the honor of delivering an invited talk at the <strong>Rising Stars Talk</strong> event hosted by the <strong>University of Iowa</strong>.</p>
-        <p><strong><a href="#">[September 2024]</a></strong> Our paper <em>“BPSniff: Continuously Surveilling Private Blood Pressure Information in the Metaverse via Unrestricted Inbuilt Motion Sensors”</em> is accepted to <strong>IEEE S&P 2025</strong>.</p>
-        <p><strong><a href="#">[July 2024]</a></strong> Our paper <em>“Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators”</em> is accepted to <strong>ACM CCS 2024</strong>.</p>
-        <p><strong><a href="#">[July 2024]</a></strong> Our paper <em>“Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge”</em> is accepted to <strong>PST 2024</strong>.</p>
-        <p><strong><a href="#">[May 2024]</a></strong> Our paper <em>“SAFARI: Speech-Associated Facial Authentication Attack on AR/VR Settings via Robust Vibration”</em>.</p>
-    </div>
-</div>
-
 
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
