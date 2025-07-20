@@ -262,20 +262,20 @@ redirect_from:
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Graph-centric Security, learning and Computing</li>
-                <li>Graph AI and Graph Analytics</li>
-                <li>Cloud Computing & High Performance Computing (HPC)</li> 
-                <li>Microservices and Docker & Kubernetes Orchestration</li>
+                <<li>Security & Risk Analysis in AI Supply Chain (LLM)</li>
+        		    <li>Graph-Centric Security, Learning & Analytics</li>
+        		    <li>Digital Transformation & Cloud-Native Modernization</li>
+        		    <li>Microservices, Docker & Kubernetes Orchestration</li>
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>Project Management</li> 
-                <li>Information and Cyber Security</li> 
-                <li>Governance, Risk & Compliance (GRC)</li>
-                <li>IT Audit</li>
+                <li>Project & Security Portfolio Leadership (FinTech, Consulting)</li>
+                <li>Cybersecurity Strategy & Threat Mitigation (SIEM, SOAR, XDR)</li>
+                <li>GRC & Data Privacy in Banking and Government Systems</li>
+                <li>IT Audit, Compliance & Risk Governance (SOX, ISO, GDPR)</li>
             </div>
         </div>
     </div>
