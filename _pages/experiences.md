@@ -85,7 +85,7 @@ author_profile: true
 
         ul li {
             text-align: justify;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
 
         ul li::marker {
@@ -268,7 +268,7 @@ author_profile: true
             <ul class="section-content">
                <li>Directed enterprise-wide cybersecurity strategy, aligning initiatives with business goals and regulatory standards.</li>
                <li>Led a 30-member Security Operations Center (SOC), ensuring 24/7 threat detection, rapid breach containment, and operational resilience.</li>
-               <li>Architected advanced security frameworks to protect data, counter emerging threats, and ensure compliance with SOX, ISO 27001, and GDPR.</li>
+               <li>Architected advanced security frameworks to protect data, counter emerging threats, and ensure compliance.</li>
                <li>Authored and enforced policies for risk governance, vendor security, SLA oversight, and GABV-aligned audits.</li>
                <li>Delivered board-level risk reports and fostered stakeholder collaboration to drive organization-wide cybersecurity awareness.</li>
             </ul>
