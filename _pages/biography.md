@@ -262,7 +262,7 @@ redirect_from:
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <<li>Security & Risk Analysis in AI Supply Chain (LLM)</li>
+                <li>Security & Risk Analysis in AI Supply Chain (LLM)</li>
         		    <li>Graph-Centric Security, Learning & Analytics</li>
         		    <li>Digital Transformation & Cloud-Native Modernization</li>
         		    <li>Microservices, Docker & Kubernetes Orchestration</li>
