@@ -266,16 +266,18 @@ author_profile: true
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
-                <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
-                <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
+               <li>Directed enterprise-wide cybersecurity strategy, aligning initiatives with business goals and regulatory standards.</li>
+               <li>Led a 30-member Security Operations Center (SOC), ensuring 24/7 threat detection, rapid breach containment, and operational resilience.</li>
+               <li>Architected advanced security frameworks to protect data, counter emerging threats, and ensure compliance with SOX, ISO 27001, and GDPR.</li>
+               <li>Authored and enforced policies for risk governance, vendor security, SLA oversight, and GABV-aligned audits.</li>
+               <li>Delivered board-level risk reports and fostered stakeholder collaboration to drive organization-wide cybersecurity awareness.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Directed deploying advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
-                <li>Augmented cybersecurity protocols across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, safeguarding operations from evolving threats and ensuring uninterrupted service.</li>
-                <li>Strengthened BRAC Bank’s position as a member of the Global Alliance for Banking on Values (GABV), aligning with global standards in secure and sustainable banking, reinforcing its leadership in the financial industry.</li>
+                <li>Deployed advanced ransomware defenses, XDR, EDR, and SIEM/SOAR solutions, mitigating 99.9% of threats and ensuring business continuity.</li>
+                <li>Fortified cybersecurity across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, ensuring uninterrupted banking services.</li>
+                <li>Drove security-focused digital transformation, saving $1.5M annually, improving efficiency by 25%, and reducing manual processes by 40%.</li>
+                <li>Strengthened BRAC Bank’s alignment with the Global Alliance for Banking on Values (GABV), reinforcing its leadership in secure, sustainable finance.</li>
             </ul>
         </div>
 
