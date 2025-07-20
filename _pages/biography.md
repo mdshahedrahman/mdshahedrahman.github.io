@@ -258,7 +258,7 @@ redirect_from:
     <!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
-        <div class="separator">Interests</div>
+        <div class="separator">Expertise</div>
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
