@@ -249,15 +249,15 @@ author_profile: true
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
-                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of inherited vulnerabilities.</li>
+                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of vulnerabilities.</li>
                 <li>Engineered secure evaluation pipelines incorporating adversarial testing, privacy preservation, and data provenance tracking.</li>
-                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with ethical AI standards.</li> 
+                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with AI standards.</li> 
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Built and analyzed a 400K+ node LLM supply chain graph, enabling large-scale, explainable, and auditable risk analysis of model inheritance and dataset provenance.</li>
                 <li>Identified critical prompt injection vectors and data leakage risks, contributing to the development of defensive strategies for trustworthy LLM deployment.</li>
-                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in generative AI systems.</li>
+                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in AI systems.</li>
             </ul>
         </div>
 
