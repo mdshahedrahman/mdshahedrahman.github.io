@@ -240,6 +240,32 @@ author_profile: true
     <!-- Experience cards -->
     <div class="experience-container">
 
+        
+        <!-- Role 1: Summer Intern -->
+        <div class="experience-card">
+            <h3>Summer Secuirty Audit Intern</h3>
+            <h4><a href="https://www.fhlb.com/" target="_blank">Federal Home Loan Bank (FHLB), Dallas</a> · May 2025 – July 2025</h4>
+            <h5>Texas, USA</h5>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkuwCZu4Ws7hq8KnVC-hGkcAzJJgpmibD_UQ&s" alt="FHLB Logo">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
+                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of vulnerabilities.</li>
+                <li>Engineered secure evaluation pipelines incorporating adversarial testing, privacy preservation, and data provenance tracking.</li>
+                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with AI standards.</li> 
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Built and analyzed a 400K+ node LLM supply chain graph, enabling large-scale, explainable, and auditable risk analysis of model inheritance and dataset provenance.</li>
+                <li>Identified critical prompt injection vectors and data leakage risks, contributing to the development of defensive strategies for trustworthy LLM deployment.</li>
+                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in AI systems.</li>
+            </ul>
+        </div>
+        
+        
+        
+        
+        
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
