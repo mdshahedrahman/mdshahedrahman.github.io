@@ -234,7 +234,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Building a Strong Foundation with 12+ Years of Professional Expertise</h2>
+    <h2>Building a Strong Foundation with 14+ Years of Professional Expertise</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
@@ -246,19 +246,23 @@ author_profile: true
             <h3>Summer Secuirty Audit Intern</h3>
             <h4><a href="https://www.fhlb.com/" target="_blank">Federal Home Loan Bank (FHLB), Dallas</a> · May 2025 – July 2025</h4>
             <h5>Texas, USA</h5>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkuwCZu4Ws7hq8KnVC-hGkcAzJJgpmibD_UQ&s" alt="FHLB Logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaygaMtjUjjLnya89RUR87glN4krJcAadeIsrsJgPTeiIn9o1hgYvbJMSBw13wZOSv5Lg&usqp=CAU" alt="FHLB Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
-                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of vulnerabilities.</li>
-                <li>Engineered secure evaluation pipelines incorporating adversarial testing, privacy preservation, and data provenance tracking.</li>
-                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with AI standards.</li> 
+                <li>Supported IT and compliance audits using FHLB Dallas’s methodology, ensuring alignment with SOX, BCP/DR, FHFA regulations, and GAAP. </li>
+                <li>Conducted internal control testing for IT systems to assess risk mitigation and regulatory compliance.</li>
+                <li>Prepared audit workpapers documenting procedures, testing, and control effectiveness per departmental standards.</li>
+                <li>Collaborated with audit management to draft recommendations and reports for auditee presentation.</li>
+                <li>Engaged with IT and business stakeholders to gather evidence and enhance risk assessment quality.</li>
+
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Built and analyzed a 400K+ node LLM supply chain graph, enabling large-scale, explainable, and auditable risk analysis of model inheritance and dataset provenance.</li>
-                <li>Identified critical prompt injection vectors and data leakage risks, contributing to the development of defensive strategies for trustworthy LLM deployment.</li>
-                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in AI systems.</li>
+                <li>Developed a SharePoint audit portal to streamline documentation and lifecycle management, boosting team efficiency.</li>
+                <li>Proposed AI-driven use cases to leadership, advancing automation in audit processes and digital transformation.</li>
+                <li>Gained hands-on experience in enterprise risk management, SOX compliance, and regulatory audits through collaboration with senior auditors.</li>
+                <li>Informed audit strategies via leadership discussions on financial markets, governance, and risk oversight.</li>
+
             </ul>
         </div>
         
