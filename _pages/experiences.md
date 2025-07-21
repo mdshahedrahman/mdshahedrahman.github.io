@@ -248,13 +248,16 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
-                <li>Designed and implemented a Kubernetes-based Resource Manager to orchestrate microservices, dynamically improving deployment scalability and operational resilience.</li>
-                <li>Identified and mitigated critical resource bottlenecks in microservices architecture, ensuring peak performance across distributed cloud environments.</li>
+                <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
+                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of inherited vulnerabilities.</li>
+                <li>Engineered secure evaluation pipelines incorporating adversarial testing, privacy preservation, and data provenance tracking.</li>
+                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with ethical AI standards.</li> 
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Implemented early SLO violation detection to streamline CPU utilization, driving greater resource efficiency, reducing unnecessary CPU overhead, and saving costs.</li>
+                <li>Built and analyzed a 400K+ node LLM supply chain graph, enabling large-scale, explainable, and auditable risk analysis of model inheritance and dataset provenance.</li>
+                <li>Identified critical prompt injection vectors and data leakage risks, contributing to the development of defensive strategies for trustworthy LLM deployment.</li>
+                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in generative AI systems.</li>
             </ul>
         </div>
 
