@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad Shahedur Rahman"
   avatar           : "My_HS.jpg"
-  bio              : "Ph.D. Student in the Department of Computer Science at The University of Texas at Arlington"
+  bio              : "Ph.D. Student in the Department of Computer Science & Engineering at The University of Texas at Arlington"
   location         : "Dallas-Fort Worth Metroplex, Texas"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "m-shahed/"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0001-9167-7249"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
