@@ -124,6 +124,20 @@ author_profile: true
             margin-bottom: 8px;
         }
 
+        /* Row of links inside a card */
+        .link-row {
+              display: flex;
+              gap: 16px;          /* space between links */
+              flex-wrap: wrap;    /* wrap on small screens */
+              align-items: center;
+              margin: 8px 0 12px;
+            }
+
+.link-row a {
+  font-weight: bold;  /* matches your heading vibe without using <h4> */
+}
+
+
         .experience-card h4 {
             font-size: 16px;
             font-weight: bold;
@@ -242,10 +256,13 @@ author_profile: true
 
     <div class="experience-card">
         <h3>HuggingGraph: Understanding the Supply Chain of LLM Ecosystem</h3>
-         <h4>Link: <a href="https://arxiv.org/abs/2507.14240" target="_blank">Paper_CIKM</a></h4>
-        <h4>Link: <a href="https://arxiv.org/abs/2507.14240" target="_blank">Paper_arXiv</a></h4>
-         <h4>Link: <a href="https://github.com/huggingface00/HuggingGraph" target="_blank">Dataset</a></h4>
-          <h4>Link: <a href="https://graph-lab-uta-llmgraph.vercel.app/" target="_blank">Simulator</a></h4>
+    <div class="link-row">
+  <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener">Paper_CIKM</a>
+  <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener">Paper_arXiv</a>
+  <a href="https://github.com/huggingface00/HuggingGraph" target="_blank" rel="noopener">Dataset</a>
+  <a href="https://graph-lab-uta-llmgraph.vercel.app/" target="_blank" rel="noopener">Simulator</a>
+</div>
+
         
         <div class="section-header">Abstract</div>
         <div class="section-content">
