@@ -153,10 +153,28 @@ author_profile: true
 
         <div class="section-header">Overview</div>
         <div class="section-content">
-          <p>HuggingGraph, the first work to systematically collect the LLM supply chain information and analyze it at scale.
-📦 Systematically collect LLM supply chain data, 🔗 Construct an LLM supply chain graph, and 🔍 Perform rich graph analytics.</p>
+          <p>
+            HuggingGraph, the first work to systematically collect the LLM supply chain
+            information and analyze it at scale.
+          </p>
+        
+          <ul>
+            <li>
+              📦 <strong>Systematically collect LLM supply chain data</strong> – We curate large-scale metadata
+              connecting models and datasets across the LLM ecosystem.
+            </li>
+            <li>
+              🔗 <strong>Construct an LLM supply chain graph</strong> – We build a directed, heterogeneous graph
+              that captures relationships between base models, fine-tuned models, adapters, quantized/merged
+              variants, and datasets.
+            </li>
+            <li>
+              🔍 <strong>Perform rich graph analytics</strong> – We conduct forward and backward analyses to trace
+              lineage, uncover dependencies, and derive insights into risks and evolution in the LLM supply chain.
+            </li>
+          </ul>
         </div>
-      </div>
+
 
       <!-- Duplicate .experience-card blocks here for additional publications -->
 
