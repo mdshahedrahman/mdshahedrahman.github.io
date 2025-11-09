@@ -145,15 +145,24 @@ author_profile: true
 
         <div class="link-row">
           <span class="link-label">Links:</span>
-          <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
+          <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
           <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener noreferrer">Paper_arXiv</a>
           <a href="https://github.com/SC-Lab-Go/HuggingGraph" target="_blank" rel="noopener noreferrer">Dataset</a>
           <a href="https://ai-supply-chain.github.io/" target="_blank" rel="noopener noreferrer">Simulator</a>
         </div>
 
-        <div class="section-header">Abstract</div>
+        <div class="section-header">Overview</div>
         <div class="section-content">
-          <p>Large language models (LLMs) leverage deep learning architectures to process and predict sequences of words, enabling them to perform a wide range of natural language processing tasks, such as translation, summarization, question answering, and content generation. As existing LLMs are often built from base models or other pre-trained models and use external datasets, they can inevitably inherit vulnerabilities, biases, or malicious components that exist in previous models or datasets. Therefore, it is critical to understand these components’ origin and development process to detect potential risks, improve model fairness, and ensure compliance with regulatory frameworks. Motivated by that, this project aims to study such relationships between models and datasets, which are the central parts of the LLM supply chain. First, we design a methodology to systematically collect LLMs’ supply chain information. Then, we design a new graph to model the relationships between models and datasets, which is a directed heterogeneous graph, having 402,654 nodes and 462,524 edges. Lastly, we perform different types of analysis and make multiple interesting findings.</p>
+          <p>HuggingGraph, the first work to systematically collect the supply chain information of LLMs and analyze it at scale. Concretely, we:
+
+📦 Systematically collect LLM supply chain data
+We curate large-scale metadata connecting models and datasets across the LLM ecosystem.
+
+🔗 Construct an LLM supply chain graph
+We build a directed, heterogeneous graph that captures relationships between base models, fine-tuned models, adapters, quantized/merged variants, and datasets.
+
+🔍 Perform rich graph analytics
+We conduct forward and backward analyses to trace lineage, uncover dependencies, and derive insights into risks and evolution in the LLM supply chain.</p>
         </div>
       </div>
 
