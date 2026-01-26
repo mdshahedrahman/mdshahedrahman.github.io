@@ -146,7 +146,7 @@ author_profile: true
         <div class="link-row">
           <span class="link-label">Links:</span>
           <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
-          <a href="https://github.com/mdshahedrahman/mdshahedrahman.github.io/blob/master/files/2025_CIKM_HuggingGraph.pdf" target="_blank" rel="noopener noreferrer">Presentation</a>
+          <a href="https://github.com/mdshahedrahman/mdshahedrahman.github.io/files/2025_CIKM_HuggingGraph.pdf" target="_blank" rel="noopener noreferrer">Presentation</a>
           <a href="https://github.com/SC-Lab-Go/HuggingGraph" target="_blank" rel="noopener noreferrer">Dataset</a>
           <a href="https://ai-supply-chain.github.io/" target="_blank" rel="noopener noreferrer">Simulator</a>
         </div>
