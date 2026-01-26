@@ -146,7 +146,6 @@ author_profile: true
         <div class="link-row">
           <span class="link-label">Links:</span>
           <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
-          <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener noreferrer">Paper_arXiv</a>
           <a href="https://github.com/SC-Lab-Go/HuggingGraph" target="_blank" rel="noopener noreferrer">Dataset</a>
           <a href="https://ai-supply-chain.github.io/" target="_blank" rel="noopener noreferrer">Simulator</a>
         </div>
