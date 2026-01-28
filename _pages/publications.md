@@ -188,7 +188,7 @@ author_profile: true
         <div class="section-header">Overview</div>
         <div class="section-content">
         <p>
-          SEGA-NET is the first framework to bridge semantic-aware, LLM-guided augmentation with robust low-resolution image classification.
+         SEGA-NET, the first semantic-aware, LLM-guided augmentation framework for robust low-resolution image classification.
         </p>
         
         <ul>
