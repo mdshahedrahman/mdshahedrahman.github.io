@@ -174,7 +174,7 @@ author_profile: true
             </li>
           </ul>
         </div>
-
+</div>
 <div class="experience-card">
         <h3>SEGA-NET: LLM-Guided Semantic-Enhanced GAN Augmentation Network for Low-Resolution Image Classification</h3>
 
