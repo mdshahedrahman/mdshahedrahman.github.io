@@ -175,6 +175,40 @@ author_profile: true
           </ul>
         </div>
 
+<div class="experience-card">
+        <h3>SEGA-NET: LLM-Guided Semantic-Enhanced GAN Augmentation Network for Low-Resolution Image Classification</h3>
+
+        <div class="link-row">
+          <span class="link-label">Links:</span>
+          <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_AIxDKE</a>
+          <a href="https://mdshahedrahman.github.io/files/2025_CIKM_HuggingGraph.pdf" target="_blank" rel="noopener noreferrer">Presentation</a> 
+          
+        </div>
+
+        <div class="section-header">Overview</div>
+        <div class="section-content">
+          <p>
+            SEGA-NET, the first work to systematically collect the LLM supply chain
+            information and analyze it at scale.
+          </p>
+        
+          <ul>
+            <li>
+              📦 <strong>Systematically collect LLM supply chain data</strong> – We curate large-scale metadata
+              connecting models and datasets across the LLM ecosystem.
+            </li>
+            <li>
+              🔗 <strong>Construct an LLM supply chain graph</strong> – We build a directed, heterogeneous graph
+              that captures relationships between base models, fine-tuned models, adapters, quantized/merged
+              variants, and datasets.
+            </li>
+            <li>
+              🔍 <strong>Perform rich graph analytics</strong> – We conduct forward and backward analyses to trace
+              lineage, uncover dependencies, and derive insights into risks and evolution in the LLM supply chain.
+            </li>
+          </ul>
+        </div>
+
 
       <!-- Duplicate .experience-card blocks here for additional publications -->
 
