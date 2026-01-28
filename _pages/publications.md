@@ -187,26 +187,29 @@ author_profile: true
 
         <div class="section-header">Overview</div>
         <div class="section-content">
-          <p>
-            SEGA-NET, the first work to systematically collect the LLM supply chain
-            information and analyze it at scale.
-          </p>
+        <p>
+          SEGA-NET is the _FIRST_ framework to bridge a semantic-aware, LLM-guided augmentation for robust low-resolution image classification.
+        </p>
         
-          <ul>
-            <li>
-              📦 <strong>Systematically collect LLM supply chain data</strong> – We curate large-scale metadata
-              connecting models and datasets across the LLM ecosystem.
-            </li>
-            <li>
-              🔗 <strong>Construct an LLM supply chain graph</strong> – We build a directed, heterogeneous graph
-              that captures relationships between base models, fine-tuned models, adapters, quantized/merged
-              variants, and datasets.
-            </li>
-            <li>
-              🔍 <strong>Perform rich graph analytics</strong> – We conduct forward and backward analyses to trace
-              lineage, uncover dependencies, and derive insights into risks and evolution in the LLM supply chain.
-            </li>
-          </ul>
+        <ul>
+          <li>
+            🧠 <strong>Semantic-first prompt expansion</strong> – We use large language models
+            to transform class labels into semantically diverse prompts, enabling
+            controlled intra-class variation beyond pixel-level augmentation.
+          </li>
+          <li>
+            🎯 <strong>Projector-steered GAN synthesis</strong> – We introduce a lightweight
+            text-to-latent projector that maps LLM semantics into a frozen
+            class-conditional GAN, enabling efficient and label-consistent 32×32
+            generation.
+          </li>
+          <li>
+            🛡️ <strong>Security-aware data curation</strong> – We apply CLIP-based semantic
+            filtering, SSIM de-duplication, and quality screening to retain only
+            high-fidelity samples that improve accuracy and adversarial robustness.
+          </li>
+        </ul>
+
         </div>
 
 
