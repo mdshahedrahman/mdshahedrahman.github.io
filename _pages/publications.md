@@ -180,7 +180,7 @@ author_profile: true
 
         <div class="link-row">
           <span class="link-label">Links:</span>
-          <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_AIxDKE</a>
+          <a href="https://ieeexplore.ieee.org/abstract/document/11486364" target="_blank" rel="noopener noreferrer">Paper_AIxDKE</a>
           <a href="https://mdshahedrahman.github.io/files/2026_AIxDKE_SEGA-NET.pdf" target="_blank" rel="noopener noreferrer">Presentation</a> 
           
         </div>
