@@ -1,0 +1,42 @@
+# Dates follow the uploaded filenames. Confirm when event details are supplied.
+# Add a caption to each entry once Shahed provides event descriptions.
+- year: "2026"
+  date: "2026-09"
+  label: "September 2026"
+  image: /images/group/2026-Sep.png
+  alt: "Group standing together on steps outside a building."
+  width: 2367
+  height: 1870
+  caption: ""
+- year: "2026"
+  date: "2026-08"
+  label: "August 2026"
+  image: /images/group/2026-Aug.png
+  alt: "Group seated around a round table indoors."
+  width: 2048
+  height: 1365
+  caption: ""
+- year: "2025"
+  date: "2025-12"
+  label: "December 2025"
+  image: /images/group/2025_Dec.jpg
+  alt: "Group posing with holiday props in front of a UTA holiday-party backdrop."
+  width: 1024
+  height: 683
+  caption: ""
+- year: "2025"
+  date: "2025-09"
+  label: "September 2025"
+  image: /images/group/2025-Sep1.png
+  alt: "Group seated together around a table at an indoor gathering."
+  width: 4032
+  height: 3024
+  caption: ""
+- year: "2025"
+  date: "2025-09"
+  label: "September 2025"
+  image: /images/group/2025-Sep2.png
+  alt: "Group standing in front of a UTA Ph.D. welcome backdrop."
+  width: 4032
+  height: 3024
+  caption: ""

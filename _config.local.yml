@@ -1,0 +1,5 @@
+# Combine with _config.yml for a local-only preview.
+url: "http://localhost:4000"
+baseurl: ""
+analytics:
+  provider: false

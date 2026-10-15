@@ -1,221 +1,89 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
+body_class: homepage publications-page
 ---
 
-<style>
-/* ---------- Scope all styles to this page ---------- */
-.pub-page {
-  font-family: 'Georgia', serif;
-  color: #333;
-}
+<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en">Google Scholar profile</a>. Published proceedings are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available.</p>
+<!-- Bibliographic details and DOI links: CV_Academic_Shahed.pdf.
+     Confirmed editions: https://ictai.computer.org/2026/ and https://icpr2026.org/;
+     CIKM edition from the CV. Do not infer unconfirmed edition numbers or venue rankings. -->
 
-/* Main content container */
-.pub-page .content {
-  width: 100%;
-  max-width: 1100px;
-  margin: 30px auto;
-  padding: 20px;
-  background-color: #ffffff;
-  border-radius: 15px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
+<section aria-labelledby="publications-2026">
+<h2 id="publications-2026" class="publication-year">2026</h2>
+<ul class="publication-list">
+<li id="agentfuzz" class="publication-entry">
+<span class="publication-title">AgentFuzz: Trace-Level Fuzzing for Prompt Spillover in LLM Multi-Agent Systems</span>
+<span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, Mohammad Tahmid Bari, Md. Nasim Adnan, Arshad Parvez, and Sujit Maharjan.</span>
+<span class="publication-venue">In <em>25th IEEE International Conference on Machine Learning and Applications</em> (<strong>ICMLA 2026</strong>).</span>
+<span class="publication-links">
+<a href="https://icmla-conference.org/icmla26/" aria-label="ICMLA 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+<a href="{{ '/files/2026_ICMLA_AgentFuzz.pdf' | relative_url }}" aria-label="Presentation for AgentFuzz" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
+</span>
+</li>
+<li id="discoact" class="publication-entry">
+<span class="publication-title">DiscoAct: Securing Autonomous Multimodal LLM Agents Against Cross-Modal Trust Flattening</span>
+<span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, Sujit Maharjan, Roya Choupani, Mohammad Tahmid Bari, Erdogan Dogdu, and Md Delwar Hossain.</span>
+<span class="publication-venue">In <em>38th IEEE International Conference on Tools with Artificial Intelligence</em> (<strong>ICTAI 2026</strong>).</span>
+<span class="publication-status">Accepted, to appear.</span>
+<span class="publication-links">
+<a href="https://ictai.computer.org/2026/" aria-label="ICTAI 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+</span>
+</li>
+<li id="liteaugnet" class="publication-entry">
+<span class="publication-title">LiteAugNet: A Lightweight Semantic-Guided Augmentation Network for Efficient Edge-Level Image Classification</span>
+<span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, Mohammad Tahmid Bari, Md. Nasim Adnan, and Arshad Parvez.</span>
+<span class="publication-venue">In <em>28th International Conference on Pattern Recognition</em> (<strong>ICPR 2026</strong>), Springer LNCS, vol. 16816, pp. 159–174.</span>
+<span class="publication-links">
+<a href="https://doi.org/10.1007/978-3-032-31666-0_11" aria-label="Paper for LiteAugNet" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
+<a href="https://icpr2026.org/" aria-label="ICPR 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+<a href="{{ '/files/2026_ICPR_LiteAugNet.pdf' | relative_url }}" aria-label="Presentation for LiteAugNet" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
+</span>
+</li>
+<li id="sega-net" class="publication-entry">
+<span class="publication-title">SEGA-Net: LLM-Guided Semantic-Enhanced GAN Augmentation Network for Low-Resolution Image Classification</span>
+<span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, M Tahmid Bari, Md. Delwar Hossain, Roya Choupani, and Erdogan Dogdu.</span>
+<span class="publication-venue">In <em>9th IEEE International Conference on AI x Data and Knowledge Engineering (formerly known as AIKE) </em> (<strong>AIxDKE 2026</strong>), pp. 135–142.</span>
+<span class="publication-links">
+<a href="https://doi.org/10.1109/AIxDKE67294.2026.00031" aria-label="Paper for SEGA-Net" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
+<a href="{{ '/files/2026_AIxDKE_SEGA-NET.pdf' | relative_url }}" aria-label="Presentation for SEGA-Net" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
+</span>
+</li>
+<li id="beyond-cvss" class="publication-entry">
+<span class="publication-title">Beyond CVSS: Context-Aware Exploitability Assessment of Vulnerabilities in HPC Containers</span>
+<span class="publication-authors">Emmanuel Oseghale, <strong>Mohammad Shahedur Rahman</strong>, Ashwani Manoj Kumar Rai, Xing Gao, and Yuede Ji.</span>
+<span class="publication-venue">In <em>IEEE Cloud Summit</em> (<strong>IEEE Cloud Summit 2026</strong>), pp. 204–209.</span>
+<span class="publication-links">
+<a href="https://doi.org/10.1109/CLOUDSUMMIT68932.2026.00040" aria-label="Paper for Beyond CVSS" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
+</span>
+</li>
+</ul>
+</section>
 
-/* Section headings */
-.pub-page h1, .pub-page h2, .pub-page h3, .pub-page h4, .pub-page h5, .pub-page h6 {
-  margin: 0 0 0.5em;
-  line-height: 1.2;
-  font-weight: bold;
-}
+<section aria-labelledby="publications-2025">
+<h2 id="publications-2025" class="publication-year">2025</h2>
+<ul class="publication-list">
+<li id="hugginggraph" class="publication-entry">
+<span class="publication-title">HuggingGraph: Understanding the Supply Chain of LLM Ecosystem</span>
+<span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, Peng Gao, and Yuede Ji.</span>
+<span class="publication-venue">In <em>34th ACM International Conference on Information and Knowledge Management</em> (<strong>CIKM 2025</strong>), pp. 5997–6005.</span>
+<span class="publication-links">
+<a href="https://doi.org/10.1145/3746252.3761510" aria-label="Paper for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
+<a href="{{ '/files/2025_CIKM_HuggingGraph.pdf' | relative_url }}" aria-label="Presentation for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
+<a href="https://github.com/SC-Lab-Go/HuggingGraph" aria-label="Code &amp; dataset for HuggingGraph"><i class="fas fa-code" aria-hidden="true"></i> Code &amp; dataset</a>
+<a href="https://ai-supply-chain.github.io/" aria-label="Simulator for HuggingGraph"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Simulator</a>
+</span>
+</li>
+</ul>
+</section>
 
-.pub-page .content h2 {
-  font-size: 20px;
-  color: #1e3d8f;
-  margin-bottom: 15px;
-  text-align: center;
-  position: relative;
-}
-.pub-page .content h2::after {
-  content: '';
-  display: block;
-  width: 60%;
-  height: 1px;
-  background-color: #cccccc;
-  margin: 10px auto;
-}
-
-/* Typography */
-.pub-page p,
-.pub-page li {
-  font-size: 15.5px;
-  line-height: 1.6;
-  text-align: justify;
-  margin-bottom: 13px;
-}
-
-.pub-page ul {
-  list-style: disc;
-  margin-left: 1px;
-}
-.pub-page ul li {
-  text-align: justify;
-  margin-bottom: 10px;
-}
-.pub-page ul li::marker {
-  font-weight: bold;
-}
-
-/* Cards grid */
-.pub-page .experience-container {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 20px;
-}
-
-/* Card */
-.pub-page .experience-card {
-  background-color: #f9f9f9;
-  border-radius: 12px;
-  padding: 15px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-left: 5px solid #1e3d8f;
-}
-.pub-page .experience-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
-}
-.pub-page .experience-card h3 {
-  font-size: 18px;
-  color: #1e3d8f;
-  margin-bottom: 8px;
-}
-
-/* Row of links inside a card */
-.pub-page .link-row {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-  align-items: center;
-  margin: 8px 0 12px;
-}
-.pub-page .link-row a {
-  font-weight: bold;
-  white-space: nowrap; /* keep labels intact */
-  color: #1e3d8f;
-  text-decoration: none;
-}
-.pub-page .link-row a:hover {
-  text-decoration: underline;
-}
-.pub-page .link-label {
-  font-weight: bold;
-  margin-right: 4px;
-  color: #333;
-}
-
-/* Section header + content */
-.pub-page .section-header {
-  font-size: 16px;
-  font-weight: bold;
-  color: #1e3d8f;
-  margin-bottom: 6px;
-  border-bottom: 2px solid #cccccc;
-  padding-bottom: 3px;
-}
-.pub-page .section-content {
-  font-size: 14px;
-  line-height: 1.6;
-  color: #333;
-  text-align: justify;
-  margin-bottom: 13px;
-}
-</style>
-
-<div class="pub-page">
-  <div class="content">
-    <h2>Selected Publications</h2>
-
-    <div class="experience-container">
-
-      <div class="experience-card">
-        <h3>HuggingGraph: Understanding the Supply Chain of LLM Ecosystem</h3>
-
-        <div class="link-row">
-          <span class="link-label">Links:</span>
-          <a href="https://dl.acm.org/doi/10.1145/3746252.3761510" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
-          <a href="https://mdshahedrahman.github.io/files/2025_CIKM_HuggingGraph.pdf" target="_blank" rel="noopener noreferrer">Presentation</a> 
-          <a href="https://github.com/SC-Lab-Go/HuggingGraph" target="_blank" rel="noopener noreferrer">Dataset</a>
-          <a href="https://ai-supply-chain.github.io/" target="_blank" rel="noopener noreferrer">Simulator</a>
-        </div>
-
-        <div class="section-header">Overview</div>
-        <div class="section-content">
-          <p>
-            HuggingGraph, the first work to systematically collect the LLM supply chain
-            information and analyze it at scale.
-          </p>
-        
-          <ul>
-            <li>
-              📦 <strong>Systematically collect LLM supply chain data</strong> – We curate large-scale metadata
-              connecting models and datasets across the LLM ecosystem.
-            </li>
-            <li>
-              🔗 <strong>Construct an LLM supply chain graph</strong> – We build a directed, heterogeneous graph
-              that captures relationships between base models, fine-tuned models, adapters, quantized/merged
-              variants, and datasets.
-            </li>
-            <li>
-              🔍 <strong>Perform rich graph analytics</strong> – We conduct forward and backward analyses to trace
-              lineage, uncover dependencies, and derive insights into risks and evolution in the LLM supply chain.
-            </li>
-          </ul>
-        </div>
-</div>
-<div class="experience-card">
-        <h3>SEGA-NET: LLM-Guided Semantic-Enhanced GAN Augmentation Network for Low-Resolution Image Classification</h3>
-
-        <div class="link-row">
-          <span class="link-label">Links:</span>
-          <a href="https://ieeexplore.ieee.org/abstract/document/11486364" target="_blank" rel="noopener noreferrer">Paper_AIxDKE</a>
-          <a href="https://mdshahedrahman.github.io/files/2026_AIxDKE_SEGA-NET.pdf" target="_blank" rel="noopener noreferrer">Presentation</a> 
-          
-        </div>
-
-        <div class="section-header">Overview</div>
-        <div class="section-content">
-        <p>
-         <!-- SEGA-NET, the first semantic-aware, LLM-guided augmentation framework for robust low-resolution image classification. -->
-         SEGA-NET, the first framework to bridge LLM-guided semantic augmentation and robust low-resolution image classification.
-        </p>
-        
-        <ul>
-          <li>
-            🧠 <strong>Semantic-first prompt expansion</strong> – We use large language models
-            to transform class labels into semantically diverse prompts, enabling
-            controlled intra-class variation beyond pixel-level augmentation.
-          </li>
-          <li>
-            🎯 <strong>Projector-steered GAN synthesis</strong> – We introduce a lightweight
-            text-to-latent projector that maps LLM semantics into a frozen
-            class-conditional GAN, enabling efficient and label-consistent 32×32
-            generation.
-          </li>
-          <li>
-            🛡️ <strong>Security-aware data curation</strong> – We apply CLIP-based semantic
-            filtering, SSIM de-duplication, and quality screening to retain only
-            high-fidelity samples that improve accuracy and adversarial robustness.
-          </li>
-        </ul>
-
-        </div>
-
-
-      <!-- Duplicate .experience-card blocks here for additional publications -->
-
-    </div>
-  </div>
-</div>
+<section aria-labelledby="under-review">
+<h2 id="under-review" class="publication-year">Manuscripts under review</h2>
+<ul class="publication-list">
+<li class="publication-entry"><span class="publication-title">ProvCode: Static Auditing of Provenance Carryover for Hugging Face Models</span><span class="publication-venue">Submitted to the IEEE/ACM International Conference on Software Engineering (<strong>ICSE 2027</strong>).</span><span class="publication-status">Under review.</span></li>
+<li class="publication-entry"><span class="publication-title">ChainInfer: Graph-Based Model Provenance Inference</span><span class="publication-venue">Submitted to <em>The Web Conference</em> (<strong>WWW</strong>).</span><span class="publication-status">Under review.</span></li>
+<li class="publication-entry"><span class="publication-title">SEGA-COM: Semantic-Reliability-Aware Generative Communication and Energy Allocation</span><span class="publication-venue">Submitted to the <em>IEEE International Conference on Communications</em> (<strong>ICC 2027</strong>).</span><span class="publication-status">Under review.</span></li>
+</ul>
+</section>

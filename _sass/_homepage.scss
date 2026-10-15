@@ -1,0 +1,119 @@
+/* Layout inspiration: https://github.com/smferdous1/smferdous1.github.io
+   Uses this site's existing Academic Pages theme, with its original blue palette. */
+.masthead {
+  background: #fff;
+  border-bottom-color: #d6e5ee;
+
+  .masthead__inner-wrap {
+    max-width: 1240px;
+    padding: 1.2em 24px;
+    font-family: $header-font-family;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .greedy-nav a { color: #1e3d8f; margin-left: 0.75rem; margin-right: 0.75rem; }
+  .masthead__menu-item--lg { padding-right: 1em; }
+  .greedy-nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 6px; }
+
+  @media (max-width: 600px) {
+    .masthead__inner-wrap { padding: 1em 20px; font-size: 16px; }
+    .masthead__menu-item--lg { padding-right: 0.5em; }
+  }
+}
+
+body.homepage {
+  background: #f0f7fa;
+  color: #333;
+
+  .masthead {
+    background: #fff;
+    border-bottom-color: #d6e5ee;
+  }
+
+  .masthead a { color: #1e3d8f; }
+
+  #main {
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: 44px;
+    max-width: 1240px;
+    padding: 32px 24px;
+    margin: 0 auto;
+  }
+
+  #main::after, #main::before { display: none; }
+
+  #main > .sidebar, #main > .archive {
+    float: none;
+    width: auto;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .archive {
+    font-size: 17px;
+    line-height: 1.65;
+    overflow-wrap: break-word;
+
+    h1, h2 {
+      color: #1e3d8f;
+      font-family: $header-font-family;
+      font-size: 32px;
+      line-height: 1.2;
+      border: 0;
+    }
+
+    h1 { margin: 0 0 16px; }
+    h2 { margin: 32px 0 16px; scroll-margin-top: 24px; }
+    p { margin: 0 0 20px; }
+    a { color: #1e3d8f; text-underline-offset: 3px; }
+    a:visited { color: #1e3d8f; }
+    a:hover { color: #003399; }
+    ul { padding-left: 24px; }
+    li { margin-bottom: 12px; }
+  }
+
+  .author__avatar img {
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    object-position: center top;
+    border: 1px solid #d6e5ee;
+    background: #fff;
+  }
+
+  .homepage-cv a { font-weight: 600; }
+
+  .archive .homepage-note {
+    padding: 16px 20px;
+    border-left: 3px solid #1e3d8f;
+    background: #e5f0f8;
+    font-size: 15px;
+  }
+
+  a:focus-visible, button:focus-visible {
+    outline: 3px solid #1e3d8f;
+    outline-offset: 4px;
+  }
+
+  @media (max-width: 924px) {
+    #main { grid-template-columns: minmax(0, 1fr); gap: 28px; padding: 24px 20px; }
+    .author__avatar img { width: 80px; height: 80px; max-width: none; }
+    .archive h1, .archive h2 { font-size: 28px; }
+  }
+
+  @media (max-width: 480px) {
+    .author__content { padding-right: 12px; }
+    .sidebar .author__name { font-size: 16px; }
+    .archive { font-size: 16px; }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.homepage *, body.homepage *::before, body.homepage *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

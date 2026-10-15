@@ -231,7 +231,7 @@ author_profile: true
     <!-- Academic Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <img src="{{ '/images/verified-icons/legacy-fc2d5714d5.png' | relative_url }}" alt="UTA Logo">
             <div>
                 <h5>Student Affiliation</h5>
                 <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
@@ -248,7 +248,7 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.theladders.com/s3proxy/company-photo.theladders.com/49272/911612f4-0250-425b-a25c-10d47fb4ee40.png" alt="ISACA Logo">
+            <img src="{{ '/images/verified-icons/legacy-d9001d5ee3.png' | relative_url }}" alt="ISACA Logo">
             <div>
                 <h5>Silver Member</h5>
                 <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
@@ -259,7 +259,7 @@ author_profile: true
     <!-- Professional Affiliation Card 2 -->
 	<div class="certification-card">
 	    <div class="education-card">
-	        <img src="https://i.pinimg.com/474x/f8/7f/63/f87f63a3051bdd134ead29fed3c1900b.jpg" alt="PMI Logo">
+	        <img src="{{ '/images/verified-icons/legacy-e7f3fff968.jpg' | relative_url }}" alt="PMI Logo">
 	        <div>
 	            <h5>Member</h5>
 	            <p>2020 - Present<br>
@@ -273,7 +273,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuF3SMnGPmv0ve0Xq2R3HV-yFA11BPtrnXg&s" alt="EC-Council Logo">
+            <img src="{{ '/images/verified-icons/legacy-df4dd017e3.jpg' | relative_url }}" alt="EC-Council Logo">
             <div>
                 <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
@@ -284,7 +284,7 @@ author_profile: true
     <!-- Professional Affiliation Card 4 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
+            <img src="{{ '/images/verified-icons/ieb.png' | relative_url }}" alt="IEB Logo">
             <div>
                 <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
@@ -295,7 +295,7 @@ author_profile: true
     <!-- Professional Affiliation Card 5 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
+            <img src="{{ '/images/verified-icons/bcs.png' | relative_url }}" alt="BCS Logo">
             <div>
                 <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>

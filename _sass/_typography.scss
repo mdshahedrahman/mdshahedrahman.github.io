@@ -1,0 +1,31 @@
+/* Cambria body copy with the reference's Merriweather headings. */
+body #main {
+  p, li, dt, dd,
+  .sidebar .author__urls,
+  .sidebar .author__urls-wrapper {
+    font-family: $global-font-family;
+  }
+
+  .archive p, .archive li,
+  .page__content p, .page__content li {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+}
+
+body #main {
+  h1, h2, h3, h4, h5, h6,
+  .publication-title,
+  .background-row dd > strong {
+    font-family: $header-font-family;
+    font-weight: 700;
+    text-align: start;
+  }
+}
+
+/* Match the top-level panels to the heading typography on every page. */
+body .masthead .masthead__inner-wrap {
+  font-family: $header-font-family;
+  font-weight: 700;
+}

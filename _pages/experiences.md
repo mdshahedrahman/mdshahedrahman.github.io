@@ -246,7 +246,7 @@ author_profile: true
             <h3>Summer Secuirty Audit Intern</h3>
             <h4><a href="https://www.fhlb.com/" target="_blank">Federal Home Loan Bank (FHLB), Dallas</a> · May 2025 – July 2025</h4>
             <h5>Texas, USA</h5>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaygaMtjUjjLnya89RUR87glN4krJcAadeIsrsJgPTeiIn9o1hgYvbJMSBw13wZOSv5Lg&usqp=CAU" alt="FHLB Logo">
+            <img src="{{ '/images/verified-icons/legacy-e38896da84.jpg' | relative_url }}" alt="FHLB Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Supported IT and compliance audits using FHLB Dallas’s methodology, ensuring alignment with SOX, BCP/DR, FHFA regulations, and GAAP. </li>
@@ -275,7 +275,7 @@ author_profile: true
             <h3>Graduate Student Researcher</h3>
             <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <img src="{{ '/images/verified-icons/legacy-fc2d5714d5.png' | relative_url }}" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
@@ -296,7 +296,7 @@ author_profile: true
             <h3>Chief Information Security Officer (CISO)</h3>
             <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <img src="{{ '/images/verified-icons/brac.svg' | relative_url }}" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                <li>Directed enterprise-wide cybersecurity strategy, aligning initiatives with business goals and regulatory standards.</li>
@@ -319,7 +319,7 @@ author_profile: true
             <h3>National IT Security Consultant</h3>
             <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
+            <img src="{{ '/images/verified-icons/legacy-e3775ed07b.svg' | relative_url }}" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
@@ -341,7 +341,7 @@ Government.</li>
             <h3>Assistant Vice President</h3>
             <h4><a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Eastern Bank PLC Logo">
+            <img src="{{ '/images/verified-icons/ebl.png' | relative_url }}" alt="Eastern Bank PLC Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Headed the IT Security team, setting strategic direction and overseeing the development and implementation of the bank’s comprehensive information security strategy and architecture.</li>
@@ -362,7 +362,7 @@ Government.</li>
             <h3>Assistant Manager (Cybersecurity)</h3>
             <h4><a href="https://kpmg.com/bd/en/home.html" target="_blank">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="KPMG Bangladesh Logo">
+            <img src="{{ '/images/verified-icons/legacy-4a731fd600.png' | relative_url }}" alt="KPMG Bangladesh Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
@@ -382,7 +382,7 @@ Government.</li>
             <h3>Senior Programmer (ERP Security)</h3>
             <h4><a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="IBCS-PRIMAX Logo">
+            <img src="{{ '/images/verified-icons/legacy-4900dad2be.svg' | relative_url }}" alt="IBCS-PRIMAX Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
@@ -401,7 +401,7 @@ Government.</li>
             <h3>IT Specialist (Security)</h3>
             <h4><a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="IBM Bangladesh Logo">
+            <img src="{{ '/images/verified-icons/legacy-8d532a7f8e.png' | relative_url }}" alt="IBM Bangladesh Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>

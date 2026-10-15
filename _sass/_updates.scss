@@ -1,0 +1,59 @@
+body.homepage #main .archive #recent-updates {
+  font-family: $global-font-family;
+  font-size: 31px;
+  font-style: normal;
+
+  @media (max-width: 924px) {
+    font-size: 27px;
+  }
+}
+
+body.homepage #main .archive .recent-updates {
+  .updates-year { margin: 32px 0 40px; }
+
+  h3 {
+    margin: 0 0 16px;
+    color: #1e3d8f;
+    font-family: $global-font-family;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 700;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 64px;
+      height: 2px;
+      margin-top: 22px;
+      background: #1e3d8f;
+    }
+  }
+
+  .updates-list { margin: 0; padding: 0; list-style: none; }
+
+  .update-row {
+    display: grid;
+    grid-template-columns: 120px minmax(0, 1fr);
+    gap: 24px;
+    margin: 0;
+    padding: 20px 0;
+    border-bottom: 1px solid #cddce6;
+
+    &:last-child { border-bottom: 0; }
+    p { margin: 0; min-width: 0; }
+  }
+
+  .update-month {
+    color: #1e3d8f;
+    font-family: $sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    text-align: left;
+    hyphens: none;
+  }
+
+  @media (max-width: 600px) {
+    .update-row { grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 18px 0; }
+    h3 { font-size: 27px; }
+  }
+}

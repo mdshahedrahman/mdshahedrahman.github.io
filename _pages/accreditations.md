@@ -87,6 +87,7 @@ author_profile: true
             width: 40px;
             height: 40px;
             object-fit: contain;
+            flex: 0 0 40px;
             margin-right: 15px;
         }
 
@@ -187,22 +188,22 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+            <img src="{{ '/images/verified-icons/pmp.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Project Management Professional (PMP)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://bestiimm.com/wp-content/uploads/2023/12/lss-black-belt.png" alt="Lean Six Sigma Black Belt Icon">
+            <img src="{{ '/images/certifications/lean-six-sigma-black-belt-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Lean Six Sigma Black Belt</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://www.guide-it.de/wp-content/uploads/2019/05/Prince-2-Practitioner.png" alt="PRINCE2 Practitioner Icon">
+            <img src="{{ '/images/certifications/prince2-practitioner-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>PRINCE2 Practitioner</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ix1KGvrH2nM3mL4u-U5y3eoQ1RHffA-X8Q&s" alt="PRINCE2 Foundation Icon">
+            <img src="{{ '/images/certifications/prince2-foundation-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>PRINCE2 Foundation</h6>
         </div>
     </div>
@@ -215,22 +216,22 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/crisc_logo_rgb.webp" alt="CRISC Icon">
+            <img src="{{ '/images/verified-icons/crisc.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified in Risk and Information Systems Control (CRISC)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_ISO-IEC27001-Lead-Implementer.png" alt="ISO/IEC 27001 Lead Implementer Icon">
+            <img src="{{ '/images/certifications/iso-iec-27001-lead-implementer-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>ISO/IEC 27001:2013 ISMS: Lead Implementer</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://principledefence.com/wp-content/uploads/2022/09/ISO-27701-certified.jpg" alt="ISO/IEC 27701 Icon">
+            <img src="{{ '/images/verified-icons/iso27701.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>ISO/IEC 27701:2019 Privacy Information Management and GDPR: Lead Implementer</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62vFTrUUXr_U1IiTyzAEzLQJyT9H5FBOSag&s" alt="ITIL Foundation Icon">
+            <img src="{{ '/images/certifications/itil-foundation-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>ITIL Foundation</h6>
         </div>
     </div>
@@ -243,22 +244,22 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+            <img src="{{ '/images/certifications/cisa-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Information Systems Auditor (CISA)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://1111systems.com/wp-content/uploads/2021/04/CSA-STAR-Certification.png" alt="CSA STAR Certification Icon">
+            <img src="{{ '/images/certifications/csa-star-certification-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Advanced Auditing for CSA STAR Certification</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO/IEC 27001 Lead Auditor Icon">
+            <img src="{{ '/images/certifications/iso-iec-27001-lead-auditor-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>ISO/IEC 27001 ISMS: Lead Auditor</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://www.guestpoint.com/wp-content/uploads/2023/04/PCI-Certified-Icon-1-1568x1568.png" alt="PCI DSS Icon">
+            <img src="{{ '/images/certifications/pci-dss-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>PCI DSS V3.2.1 Implementation</h6>
         </div>
     </div>
@@ -271,52 +272,52 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity Icon">
+            <img src="{{ '/images/certifications/certified-in-cybersecurity-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified in Cybersecurity (CC)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://ec-council-international.myshopify.com/cdn/shop/files/CTIA-logo_3a4ebd78-35ad-4aa0-ba80-6d857fd81c65_580x.jpg?v=1722375767" alt="Certified Threat Intelligence Analyst Icon">
+            <img src="{{ '/images/certifications/certified-threat-intelligence-analyst-icon.jpg' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Threat Intelligence Analyst</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://media.licdn.com/dms/image/D4D12AQGGTErHv-mtLA/article-cover_image-shrink_600_2000/0/1678782336183?e=2147483647&v=beta&t=-WBaWlkdzWr7uxvFGqvX_EcQd5iRe3H4EYzOTip3o_c" alt="Certified EC-Council Instructor v10 Icon">
+            <img src="{{ '/images/verified-icons/cei.webp' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified EC-Council Instructor v10</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/91406b1f-a628-4387-b6c3-b3da5d570803/00402.png" alt="Certified Lead Pen Test Professional Icon">
+            <img src="{{ '/images/certifications/certified-lead-pen-test-professional-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Lead Pen Test Professional</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="ISO/IEC 27032 Lead Cybersecurity Manager Icon">
+            <img src="{{ '/images/certifications/iso-iec-27032-lead-cybersecurity-manager-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>ISO/IEC 27032 Lead Cybersecurity Manager</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/ceh-logo-1-1.webp" alt="Certified Ethical Hacker Icon">
+            <img src="{{ '/images/verified-icons/ceh.webp' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Ethical Hacker (CEH)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://intellectualpoint.com/wp-content/uploads/2019/04/CBP-logo-black_new.png" alt="Certified Blockchain Professional Icon">
+            <img src="{{ '/images/certifications/certified-blockchain-professional-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Blockchain Professional</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0W9ibn1tQrswJ05bU619uyhxIaI1byW7iQO2-fy_CzjadCbbVM_ErJwjA0XcAuTqy7fU&usqp=CAU" alt="Certified Secure Computer User v2 Icon">
+            <img src="{{ '/images/certifications/certified-secure-computer-user-v2-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Secure Computer User v2</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://isacfoundation.org/wp-content/uploads/2017/02/isac-100pxlogo.png" alt="Certified Cybercrime First Responder Icon">
+            <img src="{{ '/images/certifications/certified-cybercrime-first-responder-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Certified Cybercrime First Responder</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate Icon">
+            <img src="{{ '/images/certifications/cyber-security-foundation-professional-certificate-icon.png' | relative_url }}" alt="" width="40" height="40" decoding="async">
             <h6>Cyber Security Foundation Professional Certificate (CSFPC)</h6>
         </div>
     </div>

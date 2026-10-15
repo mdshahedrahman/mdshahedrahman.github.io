@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -123,6 +123,16 @@ include:
   - _pages
   - files
 exclude:
+  - Gemfile.local
+  - Gemfile.local.lock
+  - LOCAL_PREVIEW.md
+  - DEPLOYMENT.md
+  - _config.local.yml
+  - Gemfile.lock
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+  - LICENSE
+  - README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -173,21 +183,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
-
+# All current content is maintained in _pages.
 
 # Defaults
 defaults:
