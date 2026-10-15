@@ -20,7 +20,7 @@ Modern AI is rarely built from scratch. Models are fine-tuned, quantized, merged
 <nav class="research-nav" aria-label="Research themes">
 <a href="#supply-chain"><span aria-hidden="true">01</span> AI supply chain</a>
 <a href="#vulnerability-propagation"><span aria-hidden="true">02</span> Vulnerability propagation</a>
-<a href="#agent-security"><span aria-hidden="true">03</span> Multi-Agent system security</a>
+<a href="#agent-security"><span aria-hidden="true">03</span> Agentic AI security</a>
 <a href="#edge-ai"><span aria-hidden="true">04</span> Edge AI</a>
 <a href="#applied-security"><span aria-hidden="true">05</span> Applied security</a>
 </nav>
