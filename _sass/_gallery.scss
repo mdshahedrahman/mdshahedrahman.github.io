@@ -62,6 +62,9 @@ body.group-page {
       &:hover img { box-shadow: none; }
     }
 
+    // Show posters and graphics whole inside the same frame instead of cropping them.
+    .gallery-image--contain img { object-fit: contain; }
+
     .gallery-image:focus-visible { outline-offset: -4px; }
 
     .gallery-card figcaption {

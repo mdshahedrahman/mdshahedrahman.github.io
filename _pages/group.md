@@ -15,7 +15,7 @@ body_class: homepage group-page
   <div class="gallery-grid">
     {% for photo in year.items %}
     <figure class="gallery-card">
-      <a class="gallery-image" href="{{ photo.image | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open full-size photo: {{ photo.alt | escape }}">
+      <a class="gallery-image{% if photo.fit == 'contain' %} gallery-image--contain{% endif %}" href="{{ photo.image | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open full-size photo: {{ photo.alt | escape }}">
         <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
       </a>
       <figcaption>

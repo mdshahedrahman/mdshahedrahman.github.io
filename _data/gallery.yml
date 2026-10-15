@@ -40,3 +40,12 @@
   width: 4032
   height: 3024
   caption: ""
+- year: "2025"
+  date: "2025-02"
+  label: "February 2025"
+  image: /images/group/2025_Feb.png
+  alt: "UTA Computer Science and Engineering poster naming Mohammad Shahedur Rahman Teaching Assistant of the Month for February 2025."
+  width: 1254
+  height: 1254
+  fit: contain
+  caption: ""
