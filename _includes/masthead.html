@@ -16,7 +16,7 @@
               {% assign domain = base_path %}
             {% endif %}
 
-            {% if link.title == "Resume" or link.title == "CV" %}
+            {% if link.title == "Resume" %}
               <li class="masthead__menu-item">
                 <a href="{{ domain }}{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}<span class="sr-only"> (opens in a new tab)</span></a>
               </li>
