@@ -48,4 +48,4 @@ Before my doctoral studies, I worked in cybersecurity across banking, consulting
 </section>
 </div>
 
-<p class="homepage-note">Current work includes <strong>ProvCode</strong>, <strong>ChainInfer</strong>, and <strong>SEGA-COM</strong> (under review), alongside ongoing research on AI supply-chain vulnerability propagation and model lineage. See my <a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a> for publication details and research status.</p>
+<p class="homepage-note">Current work includes <strong>ProvCode</strong>, <strong>ChainInfer</strong>, and <strong>SEGA-COM</strong> (under review), alongside ongoing research on AI supply-chain vulnerability propagation and model lineage.</p>
