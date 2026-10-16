@@ -6,7 +6,7 @@ author_profile: true
 body_class: homepage publications-page
 ---
 
-<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Published proceedings are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available.</p>
+<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Available papers are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available. Papers awaiting upload are marked <strong>coming soon</strong>.</p>
 <!-- Bibliographic details and DOI links: CV_Academic_Shahed.pdf.
      Confirmed editions: https://ictai.computer.org/2026/ and https://icpr2026.org/;
      CIKM edition from the CV. Do not infer unconfirmed edition numbers or venue rankings. -->
@@ -19,7 +19,7 @@ body_class: homepage publications-page
 <span class="publication-authors"><strong>Mohammad Shahedur Rahman</strong>, Mohammad Tahmid Bari, Md. Nasim Adnan, Arshad Parvez, and Sujit Maharjan.</span>
 <span class="publication-venue">In <em>25th IEEE International Conference on Machine Learning and Applications</em> (<strong>ICMLA 2026</strong>).</span>
 <span class="publication-links">
-<a href="https://icmla-conference.org/icmla26/" aria-label="ICMLA 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+<span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span>
 <a href="{{ '/files/2026_ICMLA_AgentFuzz.pdf' | relative_url }}" aria-label="Presentation for AgentFuzz" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
 </span>
 </li>
@@ -29,7 +29,7 @@ body_class: homepage publications-page
 <span class="publication-venue">In <em>38th IEEE International Conference on Tools with Artificial Intelligence</em> (<strong>ICTAI 2026</strong>).</span>
 <span class="publication-status">Accepted, to appear.</span>
 <span class="publication-links">
-<a href="https://ictai.computer.org/2026/" aria-label="ICTAI 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+<span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span>
 </span>
 </li>
 <li id="liteaugnet" class="publication-entry">
@@ -38,7 +38,7 @@ body_class: homepage publications-page
 <span class="publication-venue">In <em>28th International Conference on Pattern Recognition</em> (<strong>ICPR 2026</strong>), Springer LNCS, vol. 16816, pp. 159–174.</span>
 <span class="publication-links">
 <a href="https://doi.org/10.1007/978-3-032-31666-0_11" aria-label="Paper for LiteAugNet" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
-<a href="https://icpr2026.org/" aria-label="ICPR 2026 conference website"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Conference website</a>
+
 <a href="{{ '/files/2026_ICPR_LiteAugNet.pdf' | relative_url }}" aria-label="Presentation for LiteAugNet" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
 </span>
 </li>
@@ -73,7 +73,7 @@ body_class: homepage publications-page
 <a href="https://doi.org/10.1145/3746252.3761510" aria-label="Paper for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
 <a href="{{ '/files/2025_CIKM_HuggingGraph.pdf' | relative_url }}" aria-label="Presentation for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
 <a href="https://github.com/SC-Lab-Go/HuggingGraph" aria-label="Code &amp; dataset for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-code" aria-hidden="true"></i> Code &amp; dataset</a>
-<a href="https://ai-supply-chain.github.io/" aria-label="Simulator for HuggingGraph"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Simulator</a>
+<a href="https://ai-supply-chain.github.io/" aria-label="Simulator for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Simulator</a>
 </span>
 </li>
 </ul>
@@ -82,8 +82,8 @@ body_class: homepage publications-page
 <section aria-labelledby="under-review">
 <h2 id="under-review" class="publication-year">Manuscripts under review</h2>
 <ul class="publication-list">
-<li class="publication-entry"><span class="publication-title">ProvCode: Static Auditing of Provenance Carryover for Hugging Face Models</span><span class="publication-venue">Submitted to the IEEE/ACM International Conference on Software Engineering (<strong>ICSE 2027</strong>).</span><span class="publication-status">Under review.</span></li>
-<li class="publication-entry"><span class="publication-title">ChainInfer: Graph-Based Model Provenance Inference</span><span class="publication-venue">Submitted to <em>The Web Conference</em> (<strong>WWW</strong>).</span><span class="publication-status">Under review.</span></li>
-<li class="publication-entry"><span class="publication-title">SEGA-COM: Semantic-Reliability-Aware Generative Communication and Energy Allocation</span><span class="publication-venue">Submitted to the <em>IEEE International Conference on Communications</em> (<strong>ICC 2027</strong>).</span><span class="publication-status">Under review.</span></li>
+<li class="publication-entry"><span class="publication-title">ProvCode: Static Auditing of Provenance Carryover for Hugging Face Models</span><span class="publication-venue">Submitted to the IEEE/ACM International Conference on Software Engineering (<strong>ICSE 2027</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
+<li class="publication-entry"><span class="publication-title">ChainInfer: Graph-Based Model Provenance Inference</span><span class="publication-venue">Submitted to <em>The Web Conference</em> (<strong>WWW</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
+<li class="publication-entry"><span class="publication-title">SEGA-COM: Semantic-Reliability-Aware Generative Communication and Energy Allocation</span><span class="publication-venue">Submitted to the <em>IEEE International Conference on Communications</em> (<strong>ICC 2027</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
 </ul>
 </section>

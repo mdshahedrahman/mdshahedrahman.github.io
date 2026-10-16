@@ -24,6 +24,8 @@ body.publications-page .archive {
 
     a { display: inline-block; }
     i { margin-right: 3px; }
+    .publication-placeholder { color: #365773; }
+    .publication-availability { font-style: italic; }
   }
 
   @media (max-width: 600px) {
