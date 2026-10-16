@@ -16,7 +16,7 @@ I use **graph-based methods, static analysis, and large-scale empirical evaluati
 
 Before my doctoral studies, I worked in cybersecurity across banking, consulting, and national infrastructure in Bangladesh. My roles included **Chief Information Security Officer at <a href="https://www.bracbank.com/en" target="_blank" rel="noopener noreferrer">BRAC Bank PLC</a>**, National IT Security Consultant with **<a href="https://cirt.gov.bd/" target="_blank" rel="noopener noreferrer">e-GOV CIRT</a>**, and positions at **<a href="https://www.ebl.com.bd/" target="_blank" rel="noopener noreferrer">Eastern Bank PLC</a>, <a href="https://kpmg.com/bd/en/home.html" target="_blank" rel="noopener noreferrer">KPMG</a>, and <a href="https://www.ibm.com/us-en" target="_blank" rel="noopener noreferrer">IBM</a>**. These experiences inform my approach to research: connecting practical security problems with rigorous analysis and usable defenses.
 
-<p class="homepage-cv"><a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download my CV <span aria-hidden="true">&rarr;</span></a></p>
+<p class="homepage-cv"><a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Download my CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a></p>
 
 <h2 id="recent-updates">Recent Updates</h2>
 
@@ -48,4 +48,4 @@ Before my doctoral studies, I worked in cybersecurity across banking, consulting
 </section>
 </div>
 
-<p class="homepage-note">Current work includes <strong>ProvCode</strong>, <strong>ChainInfer</strong>, and <strong>SEGA-COM</strong> (under review), alongside ongoing research on AI supply-chain vulnerability propagation and model lineage. See my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> for publication details and research status.</p>
+<p class="homepage-note">Current work includes <strong>ProvCode</strong>, <strong>ChainInfer</strong>, and <strong>SEGA-COM</strong> (under review), alongside ongoing research on AI supply-chain vulnerability propagation and model lineage. See my <a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a> for publication details and research status.</p>

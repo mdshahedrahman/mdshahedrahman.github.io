@@ -6,7 +6,7 @@ author_profile: true
 body_class: homepage publications-page
 ---
 
-<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Available papers are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available. Papers awaiting upload are marked <strong>coming soon</strong>.</p>
+<p class="publications-intro">For my full research profile, see my <a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Available papers are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available. Papers awaiting upload are marked <strong>coming soon</strong>.</p>
 <!-- Bibliographic details and DOI links: CV_Academic_Shahed.pdf.
      Confirmed editions: https://ictai.computer.org/2026/ and https://icpr2026.org/;
      CIKM edition from the CV. Do not infer unconfirmed edition numbers or venue rankings. -->
