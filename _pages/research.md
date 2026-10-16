@@ -14,7 +14,7 @@ My research asks how we can make AI systems **traceable, auditable, and secure**
 
 Modern AI is rarely built from scratch. Models are fine-tuned, quantized, merged, extended with adapters, and deployed inside autonomous agents. I use **graph-based methods, static analysis, and large-scale empirical evaluation** to understand these relationships and how security risks travel through them. My work also explores agent security and trustworthy, resource-efficient edge AI.
 
-<p class="research-resources"><a href="{{ '/publications/' | relative_url }}">Publications &amp; manuscripts <span aria-hidden="true">&rarr;</span></a> <a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a></p>
+<p class="research-resources"><a href="{{ '/publications/' | relative_url }}">Publications &amp; manuscripts <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <nav class="research-nav" aria-label="Research themes">
