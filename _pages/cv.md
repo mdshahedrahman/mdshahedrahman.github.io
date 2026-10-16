@@ -9,7 +9,7 @@ redirect_from:
   - /resume.html
 ---
 
-[Download my CV (PDF)]({{ '/files/CV_Academic_Shahed.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
+<p><a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Download my CV as a PDF (opens in a new tab)"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Download my CV (PDF)</span><span class="cv-link-arrow" aria-hidden="true">&#8599;</span></a></p>
 
 ## Education
 
