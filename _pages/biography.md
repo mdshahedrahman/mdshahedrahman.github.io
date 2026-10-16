@@ -8,7 +8,7 @@ excerpt: "Education, academic and industry experience, and professional certific
 ---
 
 <p class="background-summary">My education, academic appointments, and professional experience across AI security, banking, consulting, and national cybersecurity initiatives.</p>
-<nav class="background-nav" aria-label="Biography sections"><a href="#education">Education</a><a href="#experience">Experience</a><a href="#certifications">Professional Certifications</a><a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>CV (PDF)</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a></nav>
+<nav class="background-nav" aria-label="Biography sections"><a href="#education">Education</a><a href="#experience">Experience</a><a href="#certifications">Professional Certifications</a><a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV (PDF) <span aria-hidden="true">&rarr;</span></a></nav>
 <div class="background-panel">
 <section aria-labelledby="education"><h2 id="education">Education</h2>
 <dl class="background-rows">
