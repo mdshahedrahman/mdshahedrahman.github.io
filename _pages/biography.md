@@ -8,7 +8,7 @@ excerpt: "Education, academic and industry experience, and professional certific
 ---
 
 <p class="background-summary">My education, academic appointments, and professional experience across AI security, banking, consulting, and national cybersecurity initiatives.</p>
-<nav class="background-nav" aria-label="Biography sections"><a href="#education">Education</a><a href="#experience">Experience</a><a href="#certifications">Professional Certifications</a></nav>
+<nav class="background-nav" aria-label="Biography sections"><a href="#education">Education</a><a href="#experience">Experience</a><a href="#certifications">Professional Certifications</a><a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV (PDF)</a></nav>
 <div class="background-panel">
 <section aria-labelledby="education"><h2 id="education">Education</h2>
 <dl class="background-rows">
@@ -38,4 +38,3 @@ excerpt: "Education, academic and industry experience, and professional certific
 <section aria-labelledby="certifications"><h2 id="certifications">Professional Certifications</h2>
 <div class="background-certifications"><div><h3>Cybersecurity &amp; Governance</h3><ul><li>Certified Information Systems Auditor (CISA)</li><li>Certified in Risk and Information Systems Control (CRISC)</li><li>Certified Ethical Hacker (CEH)</li><li>ISC2 Certified in Cybersecurity (CC)</li><li>ISO/IEC 27001 Lead Auditor and Lead Implementer</li><li>ISO/IEC 27701 Lead Implementer</li><li>PCI-DSS Implementation</li><li>ISO 27032</li></ul></div><div><h3>Leadership &amp; Management</h3><ul><li>Project Management Professional (PMP)</li><li>PRINCE2 Practitioner</li><li>Six Sigma Black Belt</li><li>ITIL Foundation</li></ul></div></div></section>
 </div>
-<p class="background-download"><a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}">Download my full CV (PDF) <span aria-hidden="true">&rarr;</span></a></p>

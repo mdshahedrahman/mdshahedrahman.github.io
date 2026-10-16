@@ -6,7 +6,7 @@ author_profile: true
 body_class: homepage publications-page
 ---
 
-<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en">Google Scholar profile</a>. Published proceedings are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available.</p>
+<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Published proceedings are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available.</p>
 <!-- Bibliographic details and DOI links: CV_Academic_Shahed.pdf.
      Confirmed editions: https://ictai.computer.org/2026/ and https://icpr2026.org/;
      CIKM edition from the CV. Do not infer unconfirmed edition numbers or venue rankings. -->
@@ -72,7 +72,7 @@ body_class: homepage publications-page
 <span class="publication-links">
 <a href="https://doi.org/10.1145/3746252.3761510" aria-label="Paper for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper</a>
 <a href="{{ '/files/2025_CIKM_HuggingGraph.pdf' | relative_url }}" aria-label="Presentation for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i> Presentation</a>
-<a href="https://github.com/SC-Lab-Go/HuggingGraph" aria-label="Code &amp; dataset for HuggingGraph"><i class="fas fa-code" aria-hidden="true"></i> Code &amp; dataset</a>
+<a href="https://github.com/SC-Lab-Go/HuggingGraph" aria-label="Code &amp; dataset for HuggingGraph" target="_blank" rel="noopener noreferrer"><i class="fas fa-code" aria-hidden="true"></i> Code &amp; dataset</a>
 <a href="https://ai-supply-chain.github.io/" aria-label="Simulator for HuggingGraph"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Simulator</a>
 </span>
 </li>

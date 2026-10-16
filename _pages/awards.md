@@ -316,7 +316,7 @@ author_profile: true
 
 <footer>
     <div class="links">
-        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
+        <a href="#">Sitemap</a> | <a href="https://github.com/mdshahedrahman" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="#">RSS</a>
     </div>
     © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 </footer>

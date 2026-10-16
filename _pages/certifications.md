@@ -326,8 +326,8 @@ author_profile: true
 <footer>
     <div class="separator"></div>
     <div class="links">
-        <a href="#">LinkedIn</a>
-        <a href="#">GitHub</a>
+        <a href="https://www.linkedin.com/in/m-shahed/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://github.com/mdshahedrahman" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="#">Twitter</a>
     </div>
     <div class="footer-note">
