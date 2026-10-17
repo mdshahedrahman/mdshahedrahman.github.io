@@ -3,7 +3,7 @@ layout: archive
 title: "Biography"
 permalink: /biography/
 author_profile: true
-body_class: homepage background-page
+body_class: homepage background-page biography-page
 excerpt: "Education, academic and industry experience, and professional certifications of Mohammad Shahedur Rahman."
 ---
 

@@ -1,44 +1,84 @@
 body.research-page .archive {
+  // Overview card: intro, research-area chips, and collaboration call-out.
+  .research-overview {
+    margin: 24px 0 32px;
+    padding: 28px;
+    border: 1px solid #d6e5ee;
+    border-radius: 6px;
+    background: #fff;
+  }
+
   .research-intro {
-    padding: 24px 28px 8px;
-    margin: 24px 0;
-    border-left: 4px solid #1e3d8f;
-    background: #e5f0f8;
+    p { font-size: 16px; }
+    p:last-child { margin-bottom: 0; }
   }
 
   .research-eyebrow {
+    margin-bottom: 10px;
     color: #1e3d8f;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 700;
     letter-spacing: 0.09em;
     text-transform: uppercase;
   }
 
-  .research-resources {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px 28px;
-    font-size: 15px;
-    font-weight: 600;
+  .research-resources { font-size: 14px; font-weight: 600; }
+
+  .research-areas,
+  .research-collab {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #e1ebf1;
   }
 
-  .research-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin: 0 0 32px;
+  .research-areas {
+    h2 { margin: 0 0 12px; font-size: 17px; }
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li { margin: 0; }
 
     a {
-      padding: 8px 12px;
-      background: #fff;
+      display: inline-block;
+      padding: 4px 10px;
       border: 1px solid #b7cddd;
       border-radius: 4px;
-      font-size: 14px;
+      background: #fff;
+      font-size: 13px;
+      line-height: 1.4;
+      white-space: nowrap;
       text-decoration: none;
     }
 
-    a:hover { background: #e5f0f8; }
-    span { margin-right: 5px; font-weight: 700; }
+    a:hover, a:focus { background: #e5f0f8; }
+    span { margin-right: 4px; font-weight: 700; }
+
+    // Keep the five themes on one line on desktop; wrap on narrow screens.
+    @media (min-width: 1280px) {
+      ul { flex-wrap: nowrap; }
+    }
+  }
+
+  .research-collab {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 24px;
+
+    p { margin: 0; }
+    .research-collab__title { color: #1e3d8f; font-family: $header-font-family; font-size: 17px; font-weight: 700; }
+    .research-collab__text { flex: 1 1 100%; min-width: 0; }
+    .research-collab__topics { margin-top: 4px; color: #52657b; font-size: 15px; line-height: 1.6; }
+    .research-collab__paren { margin-left: 4px; font-size: 14px; font-weight: 600; white-space: nowrap; }
+    .research-collab__paren i { margin-right: 2px; }
   }
 
   .research-area {
@@ -49,9 +89,9 @@ body.research-page .archive {
     border-radius: 6px;
     background: #fff;
 
-    h2 { margin: 0 0 20px; font-size: 26px; scroll-margin-top: 24px; }
-    > p { font-size: 16px; }
-    .research-number { margin: 0 0 8px; color: #1e3d8f; font-size: 13px; font-weight: 700; letter-spacing: 0.1em; }
+    h2 { margin: 0 0 20px; font-size: 21px; scroll-margin-top: 24px; }
+    > p { font-size: 15px; }
+    .research-number { margin: 0 0 6px; color: #1e3d8f; font-size: 13px; font-weight: 700; letter-spacing: 0.1em; }
   }
 
   .research-project {
@@ -59,7 +99,7 @@ body.research-page .archive {
     margin-top: 24px;
     border-top: 1px solid #e1ebf1;
 
-    h3 { margin: 0 0 10px; font-size: 18px; line-height: 1.5; color: #223b63; }
+    h3 { margin: 0 0 10px; font-size: 17px; line-height: 1.5; color: #223b63; }
     ul { margin: 14px 0 0; font-size: 15px; }
     li { margin-bottom: 8px; }
   }
@@ -79,12 +119,18 @@ body.research-page .archive {
   }
 
   .research-status--published { color: #1e3d8f; background: #edf4fc; border-color: #b7cddd; }
-  .research-closing { padding: 8px 0; font-size: 16px; }
 
   @media (max-width: 600px) {
-    .research-intro { padding: 20px 18px 4px; }
+    .research-overview { padding: 20px 18px; }
     .research-area { padding: 20px 18px; }
-    .research-area h2 { font-size: 23px; }
-    .research-nav a { font-size: 13px; }
+    .research-area h2 { font-size: 20px; }
+    .research-areas a { font-size: 13px; }
   }
+}
+
+// The site justifies body copy via `body #main .archive p`; keep this short
+// call-out sentence ragged-right so it doesn't stretch word spacing.
+body.research-page #main .archive .research-collab__topics {
+  text-align: left;
+  hyphens: manual;
 }

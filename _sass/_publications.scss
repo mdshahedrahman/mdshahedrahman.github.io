@@ -1,15 +1,8 @@
+// Publications sit in the Biography panel (_background.scss) but keep the
+// original bulleted citation list inside it.
 body.publications-page .archive {
-  .publications-intro { font-size: 16px; line-height: 1.6; }
-
-  .publication-year {
-    margin: 30px 0 12px;
-    padding-bottom: 6px;
-    border-bottom: 1px solid #cddce6;
-    font-size: 28px;
-  }
-
   .publication-list { margin: 0; padding-left: 22px; }
-  .publication-entry { margin-bottom: 18px; padding-left: 1px; font-size: 16px; line-height: 1.45; scroll-margin-top: 24px; }
+  .publication-entry { margin-bottom: 18px; padding-left: 1px; font-size: 15px; line-height: 1.55; scroll-margin-top: 24px; }
   .publication-title, .publication-authors, .publication-venue, .publication-status { display: block; }
   .publication-title { font-weight: 700; color: #233c65; }
   .publication-authors strong { font-weight: 600; }
@@ -29,8 +22,7 @@ body.publications-page .archive {
   }
 
   @media (max-width: 600px) {
-    .publication-entry { font-size: 15px; margin-bottom: 22px; }
-    .publication-year { font-size: 26px; }
+    .publication-entry { margin-bottom: 22px; }
     .publication-links a { padding: 4px 0; }
   }
 }

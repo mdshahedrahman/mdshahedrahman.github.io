@@ -3,16 +3,18 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-body_class: homepage publications-page
+body_class: homepage background-page publications-page
 ---
 
-<p class="publications-intro">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV <span aria-hidden="true">&rarr;</span></a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Available papers are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available. Papers awaiting upload are marked <strong>coming soon</strong>.</p>
+<p class="background-summary">For my full research profile, see my <a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV <span aria-hidden="true">&rarr;</span></a> or <a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>. Available papers are linked as <strong>Paper</strong>, with presentation slides and research artifacts where available. Papers awaiting upload are marked <strong>coming soon</strong>.</p>
+<nav class="background-nav" aria-label="Publication sections"><a href="#publications-2026">2026</a><a href="#publications-2025">2025</a><a href="#under-review">Under Review</a><a href="https://scholar.google.com/citations?user=wNZsv4wAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">&rarr;</span></a><a href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV (PDF) <span aria-hidden="true">&rarr;</span></a></nav>
 <!-- Bibliographic details and DOI links: CV_Academic_Shahed.pdf.
      Confirmed editions: https://ictai.computer.org/2026/ and https://icpr2026.org/;
      CIKM edition from the CV. Do not infer unconfirmed edition numbers or venue rankings. -->
 
+<div class="background-panel">
 <section aria-labelledby="publications-2026">
-<h2 id="publications-2026" class="publication-year">2026</h2>
+<h2 id="publications-2026">2026</h2>
 <ul class="publication-list">
 <li id="agentfuzz" class="publication-entry">
 <span class="publication-title">AgentFuzz: Trace-Level Fuzzing for Prompt Spillover in LLM Multi-Agent Systems</span>
@@ -63,7 +65,7 @@ body_class: homepage publications-page
 </section>
 
 <section aria-labelledby="publications-2025">
-<h2 id="publications-2025" class="publication-year">2025</h2>
+<h2 id="publications-2025">2025</h2>
 <ul class="publication-list">
 <li id="hugginggraph" class="publication-entry">
 <span class="publication-title">HuggingGraph: Understanding the Supply Chain of LLM Ecosystem</span>
@@ -80,10 +82,11 @@ body_class: homepage publications-page
 </section>
 
 <section aria-labelledby="under-review">
-<h2 id="under-review" class="publication-year">Manuscripts under review</h2>
+<h2 id="under-review">Manuscripts under review</h2>
 <ul class="publication-list">
 <li class="publication-entry"><span class="publication-title">ProvCode: Static Auditing of Provenance Carryover for Hugging Face Models</span><span class="publication-venue">Submitted to the IEEE/ACM International Conference on Software Engineering (<strong>ICSE 2027</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
 <li class="publication-entry"><span class="publication-title">ChainInfer: Graph-Based Model Provenance Inference</span><span class="publication-venue">Submitted to <em>The Web Conference</em> (<strong>WWW</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
 <li class="publication-entry"><span class="publication-title">SEGA-COM: Semantic-Reliability-Aware Generative Communication and Energy Allocation</span><span class="publication-venue">Submitted to the <em>IEEE International Conference on Communications</em> (<strong>ICC 2027</strong>).</span><span class="publication-status">Under review.</span><span class="publication-links"><span class="publication-placeholder"><i class="fas fa-paperclip" aria-hidden="true"></i> Paper <span class="publication-availability">(coming soon)</span></span></span></li>
 </ul>
 </section>
+</div>

@@ -7,23 +7,26 @@ body_class: homepage research-page
 excerpt: "AI supply-chain security, model provenance, agent security, and trustworthy edge AI."
 ---
 
-<div class="research-intro" markdown="1">
+<div class="research-overview">
+<div class="research-intro">
 <p class="research-eyebrow">Security &amp; trustworthiness of AI systems</p>
-
-My research asks how we can make AI systems **traceable, auditable, and secure** as they are developed, adapted, and deployed. I focus on **AI supply-chain security**, **model provenance**, and **vulnerability propagation** across base models and their derivatives.
-
-Modern AI is rarely built from scratch. Models are fine-tuned, quantized, merged, extended with adapters, and deployed inside autonomous agents. I use **graph-based methods, static analysis, and large-scale empirical evaluation** to understand these relationships and how security risks travel through them. My work also explores agent security and trustworthy, resource-efficient edge AI.
-
+<p>My research focuses on making AI systems traceable, auditable, and secure throughout their development and deployment. I study AI supply-chain security, model provenance, and vulnerability propagation across interconnected AI models and systems. Using graph-based methods, static analysis, and large-scale empirical studies, I investigate how AI artifacts evolve, how dependencies are established, and how security risks propagate across model lineages. My broader interests include agentic AI security and trustworthy, resource-efficient edge AI.</p>
 <p class="research-resources"><a href="{{ '/publications/' | relative_url }}">Publications &amp; manuscripts <span aria-hidden="true">&rarr;</span></a></p>
 </div>
-
-<nav class="research-nav" aria-label="Research themes">
-<a href="#supply-chain"><span aria-hidden="true">01</span> AI supply chain</a>
-<a href="#vulnerability-propagation"><span aria-hidden="true">02</span> Vulnerability propagation</a>
-<a href="#agent-security"><span aria-hidden="true">03</span> Agentic AI security</a>
-<a href="#edge-ai"><span aria-hidden="true">04</span> Edge AI</a>
-<a href="#applied-security"><span aria-hidden="true">05</span> Applied security</a>
+<nav class="research-areas" aria-labelledby="research-areas-heading">
+<h2 id="research-areas-heading">Research Areas</h2>
+<ul>
+<li><a href="#supply-chain"><span aria-hidden="true">01</span> AI supply chain</a></li>
+<li><a href="#vulnerability-propagation"><span aria-hidden="true">02</span> Vulnerability propagation</a></li>
+<li><a href="#agent-security"><span aria-hidden="true">03</span> Agentic AI security</a></li>
+<li><a href="#edge-ai"><span aria-hidden="true">04</span> Edge AI</a></li>
+<li><a href="#applied-security"><span aria-hidden="true">05</span> Applied security</a></li>
+</ul>
 </nav>
+<aside class="research-collab" aria-label="Collaboration">
+<div class="research-collab__text"><p class="research-collab__title">Open to collaboration <span class="research-collab__paren">(<a class="research-collab__link" href="{{ '/contact/' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope" aria-hidden="true"></i> Get in touch <span aria-hidden="true">&rarr;</span></a>)</span></p><p class="research-collab__topics">I welcome collaborations with researchers and industry partners in AI supply-chain &amp; its security, model provenance, vulnerability analysis, trustworthy agentic AI, Edge AI, and related research challenges.</p></div>
+</aside>
+</div>
 
 <section class="research-area" aria-labelledby="supply-chain" markdown="1">
 <p class="research-number" aria-hidden="true">01</p>
@@ -183,7 +186,3 @@ Alongside AI security, I work on practical vulnerability assessment for high-per
 </article>
 
 </section>
-
-<div class="research-closing" markdown="1">
-Interested in research on AI provenance, supply-chain security, or secure agents? [Get in touch]({{ '/contact/' | relative_url }}).
-</div>

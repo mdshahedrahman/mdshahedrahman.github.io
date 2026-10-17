@@ -4,11 +4,13 @@ title: "About Me"
 excerpt: "Mohammad Shahedur Rahman — AI supply-chain security, model provenance, and trustworthy AI systems."
 author_profile: true
 layout: archive
-body_class: homepage
+body_class: homepage background-page about-page
 redirect_from:
   - /about/
   - /about.html
 ---
+
+<div class="background-panel about-panel" markdown="1">
 
 I am a **Ph.D. candidate in <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank" rel="noopener noreferrer">Computer Science and Engineering</a>** at **<a href="https://www.uta.edu/" target="_blank" rel="noopener noreferrer">The University of Texas at Arlington</a>**, advised by **<a href="https://www.uta.edu/academics/faculty/profile?user=yuede.ji" target="_blank" rel="noopener noreferrer">Dr. Yuede Ji</a>**. My research focuses on the **security and trustworthiness of AI systems**, particularly AI supply-chain security, model provenance, and vulnerability propagation across base models and their derivatives.
 
@@ -16,12 +18,14 @@ I use **graph-based methods, static analysis, and large-scale empirical evaluati
 
 Before my doctoral studies, I worked in cybersecurity across banking, consulting, and national infrastructure in Bangladesh. My roles included **Chief Information Security Officer at <a href="https://www.bracbank.com/en" target="_blank" rel="noopener noreferrer">BRAC Bank PLC</a>**, National IT Security Consultant with **<a href="https://cirt.gov.bd/" target="_blank" rel="noopener noreferrer">e-GOV CIRT</a>**, and positions at **<a href="https://www.ebl.com.bd/" target="_blank" rel="noopener noreferrer">Eastern Bank PLC</a>, <a href="https://kpmg.com/bd/en/home.html" target="_blank" rel="noopener noreferrer">KPMG</a>, and <a href="https://www.ibm.com/us-en" target="_blank" rel="noopener noreferrer">IBM</a>**. These experiences inform my approach to research: connecting practical security problems with rigorous analysis and usable defenses.
 
+</div>
+
 <p class="homepage-cv"><a class="cv-download" href="{{ '/files/CV_Academic_Shahed.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Download my CV</span><span class="cv-link-arrow" aria-hidden="true">&rarr;</span></a></p>
 
 <h2 id="recent-updates">Recent Updates</h2>
 
 <!-- Content: CV_Academic_Shahed.pdf. Publication months and reviewer-service range supplied by Shahed; internship completion dated July 2025. -->
-<div class="recent-updates">
+<div class="background-panel recent-updates">
 <section class="updates-year" aria-labelledby="updates-2026">
 <h3 id="updates-2026">2026</h3>
 <ul class="updates-list">
@@ -47,5 +51,3 @@ Before my doctoral studies, I worked in cybersecurity across banking, consulting
 </ul>
 </section>
 </div>
-
-<p class="homepage-note">Current work includes <strong>ProvCode</strong>, <strong>ChainInfer</strong>, and <strong>SEGA-COM</strong> (under review), alongside ongoing research on AI supply-chain vulnerability propagation and model lineage.</p>

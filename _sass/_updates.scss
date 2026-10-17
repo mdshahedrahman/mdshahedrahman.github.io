@@ -1,21 +1,23 @@
 body.homepage #main .archive #recent-updates {
   font-family: $global-font-family;
-  font-size: 31px;
+  font-size: 21px;
   font-style: normal;
 
   @media (max-width: 924px) {
-    font-size: 27px;
+    font-size: 20px;
   }
 }
 
 body.homepage #main .archive .recent-updates {
-  .updates-year { margin: 32px 0 40px; }
+  .updates-year { margin: 28px 0 32px; }
+  .updates-year:last-child { margin-bottom: 0; }
+  &.background-panel { margin-bottom: 24px; }
 
   h3 {
     margin: 0 0 16px;
     color: #1e3d8f;
     font-family: $global-font-family;
-    font-size: 31px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 700;
 
@@ -24,7 +26,7 @@ body.homepage #main .archive .recent-updates {
       display: block;
       width: 64px;
       height: 2px;
-      margin-top: 22px;
+      margin-top: 10px;
       background: #1e3d8f;
     }
   }
@@ -46,7 +48,7 @@ body.homepage #main .archive .recent-updates {
   .update-month {
     color: #1e3d8f;
     font-family: $sans-serif;
-    font-size: 17px;
+    font-size: 14px;
     font-weight: 700;
     text-align: left;
     hyphens: none;
@@ -54,6 +56,6 @@ body.homepage #main .archive .recent-updates {
 
   @media (max-width: 600px) {
     .update-row { grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 18px 0; }
-    h3 { font-size: 27px; }
+    h3 { font-size: 17px; }
   }
 }
