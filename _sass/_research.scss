@@ -13,14 +13,7 @@ body.research-page .archive {
     p:last-child { margin-bottom: 0; }
   }
 
-  .research-eyebrow {
-    margin-bottom: 10px;
-    color: #1e3d8f;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-  }
+  .research-eyebrow { margin-bottom: 10px; }
 
   .research-resources { font-size: 14px; font-weight: 600; }
 
@@ -74,9 +67,8 @@ body.research-page .archive {
     gap: 12px 24px;
 
     p { margin: 0; }
-    .research-collab__title { color: #1e3d8f; font-family: $header-font-family; font-size: 17px; font-weight: 700; }
     .research-collab__text { flex: 1 1 100%; min-width: 0; }
-    .research-collab__topics { margin-top: 4px; color: #52657b; font-size: 15px; line-height: 1.6; }
+    .research-collab__topics { margin-top: 4px; }
     .research-collab__paren { margin-left: 4px; font-size: 14px; font-weight: 600; white-space: nowrap; }
     .research-collab__paren i { margin-right: 2px; }
   }
@@ -133,4 +125,26 @@ body.research-page .archive {
 body.research-page #main .archive .research-collab__topics {
   text-align: left;
   hyphens: manual;
+}
+
+// Overview card: the three headings share the "Research Areas" style, and the
+// collaboration text matches the intro paragraph. `#main` outranks the 16px
+// intro-paragraph rule in _homepage.scss.
+body.research-page #main .archive .research-overview {
+  .research-eyebrow,
+  .research-areas h2,
+  .research-collab__title {
+    color: #1e3d8f;
+    font-family: $header-font-family;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .research-intro p:not(.research-eyebrow):not(.research-resources),
+  .research-collab__topics {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.65;
+  }
 }

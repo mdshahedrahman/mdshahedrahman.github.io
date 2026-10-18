@@ -9,7 +9,7 @@ excerpt: "AI supply-chain security, model provenance, agent security, and trustw
 
 <div class="research-overview">
 <div class="research-intro">
-<p class="research-eyebrow">Security &amp; trustworthiness of AI systems</p>
+<p class="research-eyebrow">Security &amp; Trustworthiness of AI Systems</p>
 <p>My research focuses on making AI systems traceable, auditable, and secure throughout their development and deployment. I study AI supply-chain security, model provenance, and vulnerability propagation across interconnected AI models and systems. Using graph-based methods, static analysis, and large-scale empirical studies, I investigate how AI artifacts evolve, how dependencies are established, and how security risks propagate across model lineages. My broader interests include agentic AI security and trustworthy, resource-efficient edge AI.</p>
 <p class="research-resources"><a href="{{ '/publications/' | relative_url }}">Publications &amp; manuscripts <span aria-hidden="true">&rarr;</span></a></p>
 </div>
