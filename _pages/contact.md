@@ -22,6 +22,7 @@ body_class: homepage background-page
 <li><a href="https://github.com/mdshahedrahman" target="_blank" rel="noopener noreferrer">GitHub</a></li>
 <li><a href="https://www.linkedin.com/in/m-shahed/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
 <li><a href="https://orcid.org/0009-0001-9167-7249" target="_blank" rel="noopener noreferrer">ORCID</a></li>
+<li><a href="https://alphaxiv.org/@mohammad-shahedur-rahman" target="_blank" rel="noopener noreferrer">alphaXiv</a></li>
 </ul>
 </section>
 </div>

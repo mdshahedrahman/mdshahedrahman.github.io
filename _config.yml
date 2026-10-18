@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad Shahedur Rahman"
   avatar           : "My_HS.jpg"
-  bio              : "Ph.D. Candidate in the Department of Computer Science & Engineering at The University of Texas at Arlington"
+  bio              : "Ph.D. Candidate,<br>Department of Computer Science & Engineering,<br>University of Texas at Arlington"
   location         : "Dallas-Fort Worth Metroplex, Texas"
   employer         :
   pubmed           : 
@@ -104,6 +104,7 @@ author:
   lastfm           :
   linkedin         : "m-shahed/"
   orcid            : "https://orcid.org/0009-0001-9167-7249"
+  alphaxiv         : "https://alphaxiv.org/@mohammad-shahedur-rahman"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
